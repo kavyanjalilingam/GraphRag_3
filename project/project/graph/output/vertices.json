@@ -199,6 +199,7 @@
     {
       "id": "CAT|Revenue|FY2025|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 67589,
       "unit": "USD_millions",
@@ -208,6 +209,7 @@
     {
       "id": "CAT|Revenue|FY2024|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 64809,
       "unit": "USD_millions",
@@ -217,6 +219,7 @@
     {
       "id": "CAT|Revenue|FY2023|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2023",
       "value": 67060,
       "unit": "USD_millions",
@@ -226,6 +229,7 @@
     {
       "id": "CAT|Operating Income|FY2025|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 11151,
       "unit": "USD_millions",
@@ -235,6 +239,7 @@
     {
       "id": "CAT|Operating Income|FY2024|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 13072,
       "unit": "USD_millions",
@@ -244,6 +249,7 @@
     {
       "id": "CAT|Operating Income|FY2023|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2023",
       "value": 12966,
       "unit": "USD_millions",
@@ -253,6 +259,7 @@
     {
       "id": "CAT|Net Income|FY2025|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 8882,
       "unit": "USD_millions",
@@ -262,6 +269,7 @@
     {
       "id": "CAT|Net Income|FY2024|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 10788,
       "unit": "USD_millions",
@@ -271,6 +279,7 @@
     {
       "id": "CAT|Net Income|FY2023|USD_millions|IncomeStatement",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2023",
       "value": 10332,
       "unit": "USD_millions",
@@ -280,6 +289,7 @@
     {
       "id": "CAT|Total Assets|FY2025|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 98585,
       "unit": "USD_millions",
@@ -289,6 +299,7 @@
     {
       "id": "CAT|Total Assets|FY2024|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 87764,
       "unit": "USD_millions",
@@ -298,6 +309,7 @@
     {
       "id": "CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 77267,
       "unit": "USD_millions",
@@ -307,6 +319,7 @@
     {
       "id": "CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 68270,
       "unit": "USD_millions",
@@ -316,6 +329,7 @@
     {
       "id": "CAT|Total Equity|FY2025|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2025",
       "value": 21318,
       "unit": "USD_millions",
@@ -325,6 +339,7 @@
     {
       "id": "CAT|Total Equity|FY2024|USD_millions|BalanceSheet",
       "ticker": "CAT",
+      "accession": "0000018230-26-000008",
       "period": "FY2024",
       "value": 19494,
       "unit": "USD_millions",
@@ -334,6 +349,7 @@
     {
       "id": "AMGN|Revenue|FY2025|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 35148,
       "unit": "USD_millions",
@@ -343,6 +359,7 @@
     {
       "id": "AMGN|Revenue|FY2024|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 32026,
       "unit": "USD_millions",
@@ -352,6 +369,7 @@
     {
       "id": "AMGN|Revenue|FY2023|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": 26910,
       "unit": "USD_millions",
@@ -361,6 +379,7 @@
     {
       "id": "AMGN|Operating Income|FY2025|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 9080,
       "unit": "USD_millions",
@@ -370,6 +389,7 @@
     {
       "id": "AMGN|Operating Income|FY2024|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 7258,
       "unit": "USD_millions",
@@ -379,6 +399,7 @@
     {
       "id": "AMGN|Operating Income|FY2023|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": 7897,
       "unit": "USD_millions",
@@ -388,6 +409,7 @@
     {
       "id": "AMGN|Net Income|FY2025|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 7711,
       "unit": "USD_millions",
@@ -397,6 +419,7 @@
     {
       "id": "AMGN|Net Income|FY2024|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 4090,
       "unit": "USD_millions",
@@ -406,6 +429,7 @@
     {
       "id": "AMGN|Net Income|FY2023|USD_millions|IncomeStatement",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": 6717,
       "unit": "USD_millions",
@@ -415,6 +439,7 @@
     {
       "id": "AMGN|Total Assets|FY2025|USD_millions|BalanceSheet",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 90586,
       "unit": "USD_millions",
@@ -424,6 +449,7 @@
     {
       "id": "AMGN|Total Assets|FY2024|USD_millions|BalanceSheet",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 91839,
       "unit": "USD_millions",
@@ -433,6 +459,7 @@
     {
       "id": "AMGN|Total Equity|FY2025|USD_millions|BalanceSheet",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 8658,
       "unit": "USD_millions",
@@ -442,6 +469,7 @@
     {
       "id": "AMGN|Total Equity|FY2024|USD_millions|BalanceSheet",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 5877,
       "unit": "USD_millions",
@@ -451,6 +479,7 @@
     {
       "id": "AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": 9958,
       "unit": "USD_millions",
@@ -460,6 +489,7 @@
     {
       "id": "AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": 11490,
       "unit": "USD_millions",
@@ -469,6 +499,7 @@
     {
       "id": "AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": 8471,
       "unit": "USD_millions",
@@ -478,6 +509,7 @@
     {
       "id": "AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": -1943,
       "unit": "USD_millions",
@@ -487,6 +519,7 @@
     {
       "id": "AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": -1046,
       "unit": "USD_millions",
@@ -496,6 +529,7 @@
     {
       "id": "AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": -26204,
       "unit": "USD_millions",
@@ -505,6 +539,7 @@
     {
       "id": "AMGN|CapEx|FY2025|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2025",
       "value": -1858,
       "unit": "USD_millions",
@@ -514,6 +549,7 @@
     {
       "id": "AMGN|CapEx|FY2024|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2024",
       "value": -1096,
       "unit": "USD_millions",
@@ -523,6 +559,7 @@
     {
       "id": "AMGN|CapEx|FY2023|USD_millions|CashFlow",
       "ticker": "AMGN",
+      "accession": "0000318154-26-000010",
       "period": "FY2023",
       "value": -1112,
       "unit": "USD_millions",
@@ -532,6 +569,7 @@
     {
       "id": "COP|Net Income|FY2025|USD_millions|IncomeStatement",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": 7988,
       "unit": "USD_millions",
@@ -541,6 +579,7 @@
     {
       "id": "COP|Net Income|FY2024|USD_millions|IncomeStatement",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": 9245,
       "unit": "USD_millions",
@@ -550,6 +589,7 @@
     {
       "id": "COP|Net Income|FY2023|USD_millions|IncomeStatement",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2023",
       "value": 10957,
       "unit": "USD_millions",
@@ -559,6 +599,7 @@
     {
       "id": "COP|Total Assets|FY2025|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": 121939,
       "unit": "USD_millions",
@@ -568,6 +609,7 @@
     {
       "id": "COP|Total Assets|FY2024|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": 122780,
       "unit": "USD_millions",
@@ -577,6 +619,7 @@
     {
       "id": "COP|Total Liabilities|FY2025|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": 57452,
       "unit": "USD_millions",
@@ -586,6 +629,7 @@
     {
       "id": "COP|Total Liabilities|FY2024|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": 57984,
       "unit": "USD_millions",
@@ -595,6 +639,7 @@
     {
       "id": "COP|Total Equity|FY2025|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": 64487,
       "unit": "USD_millions",
@@ -604,6 +649,7 @@
     {
       "id": "COP|Total Equity|FY2024|USD_millions|BalanceSheet",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": 64796,
       "unit": "USD_millions",
@@ -613,6 +659,7 @@
     {
       "id": "COP|Operating Cash Flow|FY2025|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": 19796,
       "unit": "USD_millions",
@@ -622,6 +669,7 @@
     {
       "id": "COP|Operating Cash Flow|FY2024|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": 20124,
       "unit": "USD_millions",
@@ -631,6 +679,7 @@
     {
       "id": "COP|Operating Cash Flow|FY2023|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2023",
       "value": 19965,
       "unit": "USD_millions",
@@ -640,6 +689,7 @@
     {
       "id": "COP|Investing Cash Flow|FY2025|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": -8836,
       "unit": "USD_millions",
@@ -649,6 +699,7 @@
     {
       "id": "COP|Investing Cash Flow|FY2024|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": -11150,
       "unit": "USD_millions",
@@ -658,6 +709,7 @@
     {
       "id": "COP|Investing Cash Flow|FY2023|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2023",
       "value": -12000,
       "unit": "USD_millions",
@@ -667,6 +719,7 @@
     {
       "id": "COP|Financing Cash Flow|FY2025|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2025",
       "value": -10102,
       "unit": "USD_millions",
@@ -676,6 +729,7 @@
     {
       "id": "COP|Financing Cash Flow|FY2024|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2024",
       "value": -8835,
       "unit": "USD_millions",
@@ -685,6 +739,7 @@
     {
       "id": "COP|Financing Cash Flow|FY2023|USD_millions|CashFlow",
       "ticker": "COP",
+      "accession": "0001163165-26-000009",
       "period": "FY2023",
       "value": -8661,
       "unit": "USD_millions",
@@ -694,6 +749,7 @@
     {
       "id": "DIS|Revenue|FY2025|USD_millions|IncomeStatement",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2025",
       "value": 94425,
       "unit": "USD_millions",
@@ -703,6 +759,7 @@
     {
       "id": "DIS|Revenue|FY2024|USD_millions|IncomeStatement",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2024",
       "value": 91361,
       "unit": "USD_millions",
@@ -712,6 +769,7 @@
     {
       "id": "DIS|Revenue|FY2023|USD_millions|IncomeStatement",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2023",
       "value": 88898,
       "unit": "USD_millions",
@@ -721,6 +779,7 @@
     {
       "id": "DIS|Total Assets|FY2025|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2025",
       "value": 197514,
       "unit": "USD_millions",
@@ -730,6 +789,7 @@
     {
       "id": "DIS|Total Assets|FY2024|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2024",
       "value": 196219,
       "unit": "USD_millions",
@@ -739,6 +799,7 @@
     {
       "id": "DIS|Total Equity|FY2025|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2025",
       "value": 114612,
       "unit": "USD_millions",
@@ -748,6 +809,7 @@
     {
       "id": "DIS|Total Equity|FY2024|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2024",
       "value": 105522,
       "unit": "USD_millions",
@@ -757,6 +819,7 @@
     {
       "id": "DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2025",
       "value": 2298,
       "unit": "USD_millions",
@@ -766,6 +829,7 @@
     {
       "id": "DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2024",
       "value": 2396,
       "unit": "USD_millions",
@@ -775,6 +839,7 @@
     {
       "id": "DIS|CapEx|FY2025|USD_millions|CashFlow",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2025",
       "value": 2025,
       "unit": "USD_millions",
@@ -784,6 +849,7 @@
     {
       "id": "DIS|CapEx|FY2024|USD_millions|CashFlow",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2024",
       "value": 2024,
       "unit": "USD_millions",
@@ -793,6 +859,7 @@
     {
       "id": "DIS|CapEx|FY2023|USD_millions|CashFlow",
       "ticker": "DIS",
+      "accession": "0001744489-25-000155",
       "period": "FY2023",
       "value": 2023,
       "unit": "USD_millions",

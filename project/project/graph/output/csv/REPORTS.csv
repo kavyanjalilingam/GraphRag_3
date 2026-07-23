@@ -1,0 +1,68 @@
+filing_id,observation_id,source_spans,confidence
+0000018230-26-000008,CAT|Revenue|FY2025|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Revenue|FY2024|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Revenue|FY2023|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Operating Income|FY2025|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Operating Income|FY2024|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Operating Income|FY2023|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Net Income|FY2025|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Net Income|FY2024|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Net Income|FY2023|USD_millions|IncomeStatement,section_38,medium
+0000018230-26-000008,CAT|Total Assets|FY2025|USD_millions|BalanceSheet,section_38,medium
+0000018230-26-000008,CAT|Total Assets|FY2024|USD_millions|BalanceSheet,section_38,medium
+0000018230-26-000008,CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet,section_38,medium
+0000018230-26-000008,CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet,section_38,medium
+0000018230-26-000008,CAT|Total Equity|FY2025|USD_millions|BalanceSheet,section_38,medium
+0000018230-26-000008,CAT|Total Equity|FY2024|USD_millions|BalanceSheet,section_38,medium
+0000318154-26-000010,AMGN|Revenue|FY2025|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Revenue|FY2024|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Revenue|FY2023|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Operating Income|FY2025|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Operating Income|FY2024|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Operating Income|FY2023|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Net Income|FY2025|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Net Income|FY2024|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Net Income|FY2023|USD_millions|IncomeStatement,section_53,medium
+0000318154-26-000010,AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Total Equity|FY2025|USD_millions|BalanceSheet,section_53,medium
+0000318154-26-000010,AMGN|Total Equity|FY2024|USD_millions|BalanceSheet,section_53,medium
+0000318154-26-000010,AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,"section_39,section_53",medium
+0000318154-26-000010,AMGN|CapEx|FY2025|USD_millions|CashFlow,section_53,medium
+0000318154-26-000010,AMGN|CapEx|FY2024|USD_millions|CashFlow,section_53,medium
+0000318154-26-000010,AMGN|CapEx|FY2023|USD_millions|CashFlow,section_53,medium
+0001163165-26-000009,COP|Net Income|FY2025|USD_millions|IncomeStatement,"section_13,section_15",medium
+0001163165-26-000009,COP|Net Income|FY2024|USD_millions|IncomeStatement,"section_13,section_15",medium
+0001163165-26-000009,COP|Net Income|FY2023|USD_millions|IncomeStatement,"section_13,section_15",medium
+0001163165-26-000009,COP|Total Assets|FY2025|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Total Assets|FY2024|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Total Liabilities|FY2025|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Total Liabilities|FY2024|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Total Equity|FY2025|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Total Equity|FY2024|USD_millions|BalanceSheet,section_15,medium
+0001163165-26-000009,COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,"section_13,section_15",medium
+0001163165-26-000009,COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,"section_13,section_15",medium
+0001163165-26-000009,COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,"section_13,section_15",medium
+0001163165-26-000009,COP|Investing Cash Flow|FY2025|USD_millions|CashFlow,section_15,medium
+0001163165-26-000009,COP|Investing Cash Flow|FY2024|USD_millions|CashFlow,section_15,medium
+0001163165-26-000009,COP|Investing Cash Flow|FY2023|USD_millions|CashFlow,section_15,medium
+0001163165-26-000009,COP|Financing Cash Flow|FY2025|USD_millions|CashFlow,section_15,medium
+0001163165-26-000009,COP|Financing Cash Flow|FY2024|USD_millions|CashFlow,section_15,medium
+0001163165-26-000009,COP|Financing Cash Flow|FY2023|USD_millions|CashFlow,section_15,medium
+0001744489-25-000155,DIS|Revenue|FY2025|USD_millions|IncomeStatement,section_47,medium
+0001744489-25-000155,DIS|Revenue|FY2024|USD_millions|IncomeStatement,section_47,medium
+0001744489-25-000155,DIS|Revenue|FY2023|USD_millions|IncomeStatement,section_47,medium
+0001744489-25-000155,DIS|Total Assets|FY2025|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|Total Assets|FY2024|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|Total Equity|FY2025|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|Total Equity|FY2024|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet,section_47,medium
+0001744489-25-000155,DIS|CapEx|FY2025|USD_millions|CashFlow,section_47,medium
+0001744489-25-000155,DIS|CapEx|FY2024|USD_millions|CashFlow,section_47,medium
+0001744489-25-000155,DIS|CapEx|FY2023|USD_millions|CashFlow,section_47,medium

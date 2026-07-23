@@ -1,0 +1,18 @@
+filing_id,event_id,source_spans,confidence
+0000018230-26-000017,"CAT|Earnings|April 30, 2026|0000018230-26-000017",section_1,high
+0000318154-26-000097,"AMGN|OfficerDirectorChange|May 19, 2026|0000318154-26-000097",section_1,high
+0000858877-25-000150,CSCO|ShareholderVote||0000858877-25-000150,section_0,medium
+0000858877-26-000057,"CSCO|OfficerDirectorChange|April 27, 2026|0000858877-26-000057",section_1,high
+0000858877-26-000075,"CSCO|OfficerDirectorChange|May 13, 2026|0000858877-26-000075",section_4,high
+0001104659-26-036366,COP|ShareholderVote||0001104659-26-036366,section_0,medium
+0001104659-26-061130,"COP|OfficerDirectorChange|May 12, 2026|0001104659-26-061130",section_1,high
+0001104659-26-072929,CAT|ShareholderVote||0001104659-26-072929,section_1,high
+0001104659-26-072929,CAT|OfficerDirectorChange||0001104659-26-072929,section_1,high
+0001104659-26-076836,"COP|OfficerDirectorChange|June 23, 2026|0001104659-26-076836",section_1,high
+0001193125-26-145588,AMGN|ShareholderVote||0001193125-26-145588,section_0,medium
+0001193125-26-232786,"AMGN|ShareholderVote|May 19, 2026|0001193125-26-232786",section_1,high
+0001193125-26-232786,"AMGN|OfficerDirectorChange|May 19, 2026|0001193125-26-232786",section_1,high
+0001308179-26-000358,CAT|ShareholderVote||0001308179-26-000358,section_0,medium
+0001628280-26-020172,"DIS|ShareholderVote|March 18, 2026|0001628280-26-020172",section_2,high
+0001628280-26-020172,"DIS|OfficerDirectorChange|March 18, 2026|0001628280-26-020172",section_1,high
+0001744489-26-000013,DIS|ShareholderVote||0001744489-26-000013,section_0,medium

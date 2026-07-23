@@ -1,68 +1,68 @@
-id,ticker,period,value,unit,scope,raw_label
-CAT|Revenue|FY2025|USD_millions|IncomeStatement,CAT,FY2025,67589,USD_millions,IncomeStatement,Total sales and revenues
-CAT|Revenue|FY2024|USD_millions|IncomeStatement,CAT,FY2024,64809,USD_millions,IncomeStatement,Total sales and revenues
-CAT|Revenue|FY2023|USD_millions|IncomeStatement,CAT,FY2023,67060,USD_millions,IncomeStatement,Total sales and revenues
-CAT|Operating Income|FY2025|USD_millions|IncomeStatement,CAT,FY2025,11151,USD_millions,IncomeStatement,Operating profit
-CAT|Operating Income|FY2024|USD_millions|IncomeStatement,CAT,FY2024,13072,USD_millions,IncomeStatement,Operating profit
-CAT|Operating Income|FY2023|USD_millions|IncomeStatement,CAT,FY2023,12966,USD_millions,IncomeStatement,Operating profit
-CAT|Net Income|FY2025|USD_millions|IncomeStatement,CAT,FY2025,8882,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
-CAT|Net Income|FY2024|USD_millions|IncomeStatement,CAT,FY2024,10788,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
-CAT|Net Income|FY2023|USD_millions|IncomeStatement,CAT,FY2023,10332,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
-CAT|Total Assets|FY2025|USD_millions|BalanceSheet,CAT,FY2025,98585,USD_millions,BalanceSheet,Total assets
-CAT|Total Assets|FY2024|USD_millions|BalanceSheet,CAT,FY2024,87764,USD_millions,BalanceSheet,Total assets
-CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet,CAT,FY2025,77267,USD_millions,BalanceSheet,Total liabilities
-CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet,CAT,FY2024,68270,USD_millions,BalanceSheet,Total liabilities
-CAT|Total Equity|FY2025|USD_millions|BalanceSheet,CAT,FY2025,21318,USD_millions,BalanceSheet,Total shareholders’ equity
-CAT|Total Equity|FY2024|USD_millions|BalanceSheet,CAT,FY2024,19494,USD_millions,BalanceSheet,Total shareholders’ equity
-AMGN|Revenue|FY2025|USD_millions|IncomeStatement,AMGN,FY2025,35148,USD_millions,IncomeStatement,Product sales
-AMGN|Revenue|FY2024|USD_millions|IncomeStatement,AMGN,FY2024,32026,USD_millions,IncomeStatement,Product sales
-AMGN|Revenue|FY2023|USD_millions|IncomeStatement,AMGN,FY2023,26910,USD_millions,IncomeStatement,Product sales
-AMGN|Operating Income|FY2025|USD_millions|IncomeStatement,AMGN,FY2025,9080,USD_millions,IncomeStatement,Operating income
-AMGN|Operating Income|FY2024|USD_millions|IncomeStatement,AMGN,FY2024,7258,USD_millions,IncomeStatement,Operating income
-AMGN|Operating Income|FY2023|USD_millions|IncomeStatement,AMGN,FY2023,7897,USD_millions,IncomeStatement,Operating income
-AMGN|Net Income|FY2025|USD_millions|IncomeStatement,AMGN,FY2025,7711,USD_millions,IncomeStatement,Net income
-AMGN|Net Income|FY2024|USD_millions|IncomeStatement,AMGN,FY2024,4090,USD_millions,IncomeStatement,Net income
-AMGN|Net Income|FY2023|USD_millions|IncomeStatement,AMGN,FY2023,6717,USD_millions,IncomeStatement,Net income
-AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,AMGN,FY2025,90586,USD_millions,BalanceSheet,Total assets
-AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,AMGN,FY2024,91839,USD_millions,BalanceSheet,Total assets
-AMGN|Total Equity|FY2025|USD_millions|BalanceSheet,AMGN,FY2025,8658,USD_millions,BalanceSheet,Total stockholders’ equity
-AMGN|Total Equity|FY2024|USD_millions|BalanceSheet,AMGN,FY2024,5877,USD_millions,BalanceSheet,Total stockholders’ equity
-AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,AMGN,FY2025,9958,USD_millions,CashFlow,Net cash provided by operating activities
-AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,AMGN,FY2024,11490,USD_millions,CashFlow,Net cash provided by operating activities
-AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,AMGN,FY2023,8471,USD_millions,CashFlow,Net cash provided by operating activities
-AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,AMGN,FY2025,-1943,USD_millions,CashFlow,Net cash used in investing activities
-AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,AMGN,FY2024,-1046,USD_millions,CashFlow,Net cash used in investing activities
-AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,AMGN,FY2023,-26204,USD_millions,CashFlow,Net cash used in investing activities
-AMGN|CapEx|FY2025|USD_millions|CashFlow,AMGN,FY2025,-1858,USD_millions,CashFlow,"Purchases of property, plant and equipment"
-AMGN|CapEx|FY2024|USD_millions|CashFlow,AMGN,FY2024,-1096,USD_millions,CashFlow,"Purchases of property, plant and equipment"
-AMGN|CapEx|FY2023|USD_millions|CashFlow,AMGN,FY2023,-1112,USD_millions,CashFlow,"Purchases of property, plant and equipment"
-COP|Net Income|FY2025|USD_millions|IncomeStatement,COP,FY2025,7988,USD_millions,IncomeStatement,Net income (loss)
-COP|Net Income|FY2024|USD_millions|IncomeStatement,COP,FY2024,9245,USD_millions,IncomeStatement,Net income (loss)
-COP|Net Income|FY2023|USD_millions|IncomeStatement,COP,FY2023,10957,USD_millions,IncomeStatement,Net income (loss)
-COP|Total Assets|FY2025|USD_millions|BalanceSheet,COP,FY2025,121939,USD_millions,BalanceSheet,Total assets
-COP|Total Assets|FY2024|USD_millions|BalanceSheet,COP,FY2024,122780,USD_millions,BalanceSheet,Total assets
-COP|Total Liabilities|FY2025|USD_millions|BalanceSheet,COP,FY2025,57452,USD_millions,BalanceSheet,Total liabilities
-COP|Total Liabilities|FY2024|USD_millions|BalanceSheet,COP,FY2024,57984,USD_millions,BalanceSheet,Total liabilities
-COP|Total Equity|FY2025|USD_millions|BalanceSheet,COP,FY2025,64487,USD_millions,BalanceSheet,Total equity
-COP|Total Equity|FY2024|USD_millions|BalanceSheet,COP,FY2024,64796,USD_millions,BalanceSheet,Total equity
-COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,COP,FY2025,19796,USD_millions,CashFlow,Net cash provided by operating activities
-COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,COP,FY2024,20124,USD_millions,CashFlow,Net cash provided by operating activities
-COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,COP,FY2023,19965,USD_millions,CashFlow,Net cash provided by operating activities
-COP|Investing Cash Flow|FY2025|USD_millions|CashFlow,COP,FY2025,-8836,USD_millions,CashFlow,Net cash used in investing activities
-COP|Investing Cash Flow|FY2024|USD_millions|CashFlow,COP,FY2024,-11150,USD_millions,CashFlow,Net cash used in investing activities
-COP|Investing Cash Flow|FY2023|USD_millions|CashFlow,COP,FY2023,-12000,USD_millions,CashFlow,Net cash used in investing activities
-COP|Financing Cash Flow|FY2025|USD_millions|CashFlow,COP,FY2025,-10102,USD_millions,CashFlow,Net cash used in financing activities
-COP|Financing Cash Flow|FY2024|USD_millions|CashFlow,COP,FY2024,-8835,USD_millions,CashFlow,Net cash used in financing activities
-COP|Financing Cash Flow|FY2023|USD_millions|CashFlow,COP,FY2023,-8661,USD_millions,CashFlow,Net cash used in financing activities
-DIS|Revenue|FY2025|USD_millions|IncomeStatement,DIS,FY2025,94425,USD_millions,IncomeStatement,Total revenues
-DIS|Revenue|FY2024|USD_millions|IncomeStatement,DIS,FY2024,91361,USD_millions,IncomeStatement,Total revenues
-DIS|Revenue|FY2023|USD_millions|IncomeStatement,DIS,FY2023,88898,USD_millions,IncomeStatement,Total revenues
-DIS|Total Assets|FY2025|USD_millions|BalanceSheet,DIS,FY2025,197514,USD_millions,BalanceSheet,Total assets
-DIS|Total Assets|FY2024|USD_millions|BalanceSheet,DIS,FY2024,196219,USD_millions,BalanceSheet,Total assets
-DIS|Total Equity|FY2025|USD_millions|BalanceSheet,DIS,FY2025,114612,USD_millions,BalanceSheet,Total equity
-DIS|Total Equity|FY2024|USD_millions|BalanceSheet,DIS,FY2024,105522,USD_millions,BalanceSheet,Total equity
-DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet,DIS,FY2025,2298,USD_millions,BalanceSheet,Total liabilities
-DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet,DIS,FY2024,2396,USD_millions,BalanceSheet,Total liabilities
-DIS|CapEx|FY2025|USD_millions|CashFlow,DIS,FY2025,2025,USD_millions,CashFlow,Capital expenditures
-DIS|CapEx|FY2024|USD_millions|CashFlow,DIS,FY2024,2024,USD_millions,CashFlow,Capital expenditures
-DIS|CapEx|FY2023|USD_millions|CashFlow,DIS,FY2023,2023,USD_millions,CashFlow,Capital expenditures
+id,ticker,accession,period,value,unit,scope,raw_label
+CAT|Revenue|FY2025|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2025,67589,USD_millions,IncomeStatement,Total sales and revenues
+CAT|Revenue|FY2024|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2024,64809,USD_millions,IncomeStatement,Total sales and revenues
+CAT|Revenue|FY2023|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2023,67060,USD_millions,IncomeStatement,Total sales and revenues
+CAT|Operating Income|FY2025|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2025,11151,USD_millions,IncomeStatement,Operating profit
+CAT|Operating Income|FY2024|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2024,13072,USD_millions,IncomeStatement,Operating profit
+CAT|Operating Income|FY2023|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2023,12966,USD_millions,IncomeStatement,Operating profit
+CAT|Net Income|FY2025|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2025,8882,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
+CAT|Net Income|FY2024|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2024,10788,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
+CAT|Net Income|FY2023|USD_millions|IncomeStatement,CAT,0000018230-26-000008,FY2023,10332,USD_millions,IncomeStatement,Profit of consolidated and affiliated companies
+CAT|Total Assets|FY2025|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2025,98585,USD_millions,BalanceSheet,Total assets
+CAT|Total Assets|FY2024|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2024,87764,USD_millions,BalanceSheet,Total assets
+CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2025,77267,USD_millions,BalanceSheet,Total liabilities
+CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2024,68270,USD_millions,BalanceSheet,Total liabilities
+CAT|Total Equity|FY2025|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2025,21318,USD_millions,BalanceSheet,Total shareholders’ equity
+CAT|Total Equity|FY2024|USD_millions|BalanceSheet,CAT,0000018230-26-000008,FY2024,19494,USD_millions,BalanceSheet,Total shareholders’ equity
+AMGN|Revenue|FY2025|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2025,35148,USD_millions,IncomeStatement,Product sales
+AMGN|Revenue|FY2024|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2024,32026,USD_millions,IncomeStatement,Product sales
+AMGN|Revenue|FY2023|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2023,26910,USD_millions,IncomeStatement,Product sales
+AMGN|Operating Income|FY2025|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2025,9080,USD_millions,IncomeStatement,Operating income
+AMGN|Operating Income|FY2024|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2024,7258,USD_millions,IncomeStatement,Operating income
+AMGN|Operating Income|FY2023|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2023,7897,USD_millions,IncomeStatement,Operating income
+AMGN|Net Income|FY2025|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2025,7711,USD_millions,IncomeStatement,Net income
+AMGN|Net Income|FY2024|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2024,4090,USD_millions,IncomeStatement,Net income
+AMGN|Net Income|FY2023|USD_millions|IncomeStatement,AMGN,0000318154-26-000010,FY2023,6717,USD_millions,IncomeStatement,Net income
+AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,AMGN,0000318154-26-000010,FY2025,90586,USD_millions,BalanceSheet,Total assets
+AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,AMGN,0000318154-26-000010,FY2024,91839,USD_millions,BalanceSheet,Total assets
+AMGN|Total Equity|FY2025|USD_millions|BalanceSheet,AMGN,0000318154-26-000010,FY2025,8658,USD_millions,BalanceSheet,Total stockholders’ equity
+AMGN|Total Equity|FY2024|USD_millions|BalanceSheet,AMGN,0000318154-26-000010,FY2024,5877,USD_millions,BalanceSheet,Total stockholders’ equity
+AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2025,9958,USD_millions,CashFlow,Net cash provided by operating activities
+AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2024,11490,USD_millions,CashFlow,Net cash provided by operating activities
+AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2023,8471,USD_millions,CashFlow,Net cash provided by operating activities
+AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2025,-1943,USD_millions,CashFlow,Net cash used in investing activities
+AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2024,-1046,USD_millions,CashFlow,Net cash used in investing activities
+AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2023,-26204,USD_millions,CashFlow,Net cash used in investing activities
+AMGN|CapEx|FY2025|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2025,-1858,USD_millions,CashFlow,"Purchases of property, plant and equipment"
+AMGN|CapEx|FY2024|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2024,-1096,USD_millions,CashFlow,"Purchases of property, plant and equipment"
+AMGN|CapEx|FY2023|USD_millions|CashFlow,AMGN,0000318154-26-000010,FY2023,-1112,USD_millions,CashFlow,"Purchases of property, plant and equipment"
+COP|Net Income|FY2025|USD_millions|IncomeStatement,COP,0001163165-26-000009,FY2025,7988,USD_millions,IncomeStatement,Net income (loss)
+COP|Net Income|FY2024|USD_millions|IncomeStatement,COP,0001163165-26-000009,FY2024,9245,USD_millions,IncomeStatement,Net income (loss)
+COP|Net Income|FY2023|USD_millions|IncomeStatement,COP,0001163165-26-000009,FY2023,10957,USD_millions,IncomeStatement,Net income (loss)
+COP|Total Assets|FY2025|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2025,121939,USD_millions,BalanceSheet,Total assets
+COP|Total Assets|FY2024|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2024,122780,USD_millions,BalanceSheet,Total assets
+COP|Total Liabilities|FY2025|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2025,57452,USD_millions,BalanceSheet,Total liabilities
+COP|Total Liabilities|FY2024|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2024,57984,USD_millions,BalanceSheet,Total liabilities
+COP|Total Equity|FY2025|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2025,64487,USD_millions,BalanceSheet,Total equity
+COP|Total Equity|FY2024|USD_millions|BalanceSheet,COP,0001163165-26-000009,FY2024,64796,USD_millions,BalanceSheet,Total equity
+COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,COP,0001163165-26-000009,FY2025,19796,USD_millions,CashFlow,Net cash provided by operating activities
+COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,COP,0001163165-26-000009,FY2024,20124,USD_millions,CashFlow,Net cash provided by operating activities
+COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,COP,0001163165-26-000009,FY2023,19965,USD_millions,CashFlow,Net cash provided by operating activities
+COP|Investing Cash Flow|FY2025|USD_millions|CashFlow,COP,0001163165-26-000009,FY2025,-8836,USD_millions,CashFlow,Net cash used in investing activities
+COP|Investing Cash Flow|FY2024|USD_millions|CashFlow,COP,0001163165-26-000009,FY2024,-11150,USD_millions,CashFlow,Net cash used in investing activities
+COP|Investing Cash Flow|FY2023|USD_millions|CashFlow,COP,0001163165-26-000009,FY2023,-12000,USD_millions,CashFlow,Net cash used in investing activities
+COP|Financing Cash Flow|FY2025|USD_millions|CashFlow,COP,0001163165-26-000009,FY2025,-10102,USD_millions,CashFlow,Net cash used in financing activities
+COP|Financing Cash Flow|FY2024|USD_millions|CashFlow,COP,0001163165-26-000009,FY2024,-8835,USD_millions,CashFlow,Net cash used in financing activities
+COP|Financing Cash Flow|FY2023|USD_millions|CashFlow,COP,0001163165-26-000009,FY2023,-8661,USD_millions,CashFlow,Net cash used in financing activities
+DIS|Revenue|FY2025|USD_millions|IncomeStatement,DIS,0001744489-25-000155,FY2025,94425,USD_millions,IncomeStatement,Total revenues
+DIS|Revenue|FY2024|USD_millions|IncomeStatement,DIS,0001744489-25-000155,FY2024,91361,USD_millions,IncomeStatement,Total revenues
+DIS|Revenue|FY2023|USD_millions|IncomeStatement,DIS,0001744489-25-000155,FY2023,88898,USD_millions,IncomeStatement,Total revenues
+DIS|Total Assets|FY2025|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2025,197514,USD_millions,BalanceSheet,Total assets
+DIS|Total Assets|FY2024|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2024,196219,USD_millions,BalanceSheet,Total assets
+DIS|Total Equity|FY2025|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2025,114612,USD_millions,BalanceSheet,Total equity
+DIS|Total Equity|FY2024|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2024,105522,USD_millions,BalanceSheet,Total equity
+DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2025,2298,USD_millions,BalanceSheet,Total liabilities
+DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet,DIS,0001744489-25-000155,FY2024,2396,USD_millions,BalanceSheet,Total liabilities
+DIS|CapEx|FY2025|USD_millions|CashFlow,DIS,0001744489-25-000155,FY2025,2025,USD_millions,CashFlow,Capital expenditures
+DIS|CapEx|FY2024|USD_millions|CashFlow,DIS,0001744489-25-000155,FY2024,2024,USD_millions,CashFlow,Capital expenditures
+DIS|CapEx|FY2023|USD_millions|CashFlow,DIS,0001744489-25-000155,FY2023,2023,USD_millions,CashFlow,Capital expenditures

@@ -81,473 +81,406 @@
       "filing_id": "0001744489-26-000036"
     }
   ],
-  "REPORTED": [
+  "REPORTS": [
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Revenue|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Revenue|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Revenue|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Operating Income|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Operating Income|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Operating Income|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Net Income|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Net Income|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Net Income|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Assets|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Assets|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Equity|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000008",
       "observation_id": "CAT|Total Equity|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0000018230-26-000008",
       "source_spans": "section_38",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Revenue|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Revenue|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Revenue|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Income|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Income|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Income|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Net Income|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Net Income|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Net Income|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Total Assets|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Total Assets|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Total Equity|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Total Equity|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_39,section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|CapEx|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|CapEx|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000010",
       "observation_id": "AMGN|CapEx|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0000318154-26-000010",
       "source_spans": "section_53",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Net Income|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Net Income|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Net Income|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Assets|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Assets|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Liabilities|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Liabilities|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Equity|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Total Equity|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Operating Cash Flow|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Operating Cash Flow|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Operating Cash Flow|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_13,section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Investing Cash Flow|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Investing Cash Flow|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Investing Cash Flow|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Financing Cash Flow|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Financing Cash Flow|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001163165-26-000009",
       "observation_id": "COP|Financing Cash Flow|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0001163165-26-000009",
       "source_spans": "section_15",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Revenue|FY2025|USD_millions|IncomeStatement",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Revenue|FY2024|USD_millions|IncomeStatement",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Revenue|FY2023|USD_millions|IncomeStatement",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Assets|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Assets|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Equity|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Equity|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|CapEx|FY2025|USD_millions|CashFlow",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|CapEx|FY2024|USD_millions|CashFlow",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-25-000155",
       "observation_id": "DIS|CapEx|FY2023|USD_millions|CashFlow",
-      "filing_accession": "0001744489-25-000155",
       "source_spans": "section_47",
       "confidence": "medium"
     }
@@ -822,123 +755,106 @@
       "definition_id": "CapEx"
     }
   ],
-  "DISCLOSED": [
+  "DISCLOSES": [
     {
-      "company_id": "CAT",
+      "filing_id": "0000018230-26-000017",
       "event_id": "CAT|Earnings|April 30, 2026|0000018230-26-000017",
-      "filing_accession": "0000018230-26-000017",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0000318154-26-000097",
       "event_id": "AMGN|OfficerDirectorChange|May 19, 2026|0000318154-26-000097",
-      "filing_accession": "0000318154-26-000097",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "CSCO",
+      "filing_id": "0000858877-25-000150",
       "event_id": "CSCO|ShareholderVote||0000858877-25-000150",
-      "filing_accession": "0000858877-25-000150",
       "source_spans": "section_0",
       "confidence": "medium"
     },
     {
-      "company_id": "CSCO",
+      "filing_id": "0000858877-26-000057",
       "event_id": "CSCO|OfficerDirectorChange|April 27, 2026|0000858877-26-000057",
-      "filing_accession": "0000858877-26-000057",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "CSCO",
+      "filing_id": "0000858877-26-000075",
       "event_id": "CSCO|OfficerDirectorChange|May 13, 2026|0000858877-26-000075",
-      "filing_accession": "0000858877-26-000075",
       "source_spans": "section_4",
       "confidence": "high"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001104659-26-036366",
       "event_id": "COP|ShareholderVote||0001104659-26-036366",
-      "filing_accession": "0001104659-26-036366",
       "source_spans": "section_0",
       "confidence": "medium"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001104659-26-061130",
       "event_id": "COP|OfficerDirectorChange|May 12, 2026|0001104659-26-061130",
-      "filing_accession": "0001104659-26-061130",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0001104659-26-072929",
       "event_id": "CAT|ShareholderVote||0001104659-26-072929",
-      "filing_accession": "0001104659-26-072929",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0001104659-26-072929",
       "event_id": "CAT|OfficerDirectorChange||0001104659-26-072929",
-      "filing_accession": "0001104659-26-072929",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "COP",
+      "filing_id": "0001104659-26-076836",
       "event_id": "COP|OfficerDirectorChange|June 23, 2026|0001104659-26-076836",
-      "filing_accession": "0001104659-26-076836",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0001193125-26-145588",
       "event_id": "AMGN|ShareholderVote||0001193125-26-145588",
-      "filing_accession": "0001193125-26-145588",
       "source_spans": "section_0",
       "confidence": "medium"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0001193125-26-232786",
       "event_id": "AMGN|ShareholderVote|May 19, 2026|0001193125-26-232786",
-      "filing_accession": "0001193125-26-232786",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "AMGN",
+      "filing_id": "0001193125-26-232786",
       "event_id": "AMGN|OfficerDirectorChange|May 19, 2026|0001193125-26-232786",
-      "filing_accession": "0001193125-26-232786",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "CAT",
+      "filing_id": "0001308179-26-000358",
       "event_id": "CAT|ShareholderVote||0001308179-26-000358",
-      "filing_accession": "0001308179-26-000358",
       "source_spans": "section_0",
       "confidence": "medium"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001628280-26-020172",
       "event_id": "DIS|ShareholderVote|March 18, 2026|0001628280-26-020172",
-      "filing_accession": "0001628280-26-020172",
       "source_spans": "section_2",
       "confidence": "high"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001628280-26-020172",
       "event_id": "DIS|OfficerDirectorChange|March 18, 2026|0001628280-26-020172",
-      "filing_accession": "0001628280-26-020172",
       "source_spans": "section_1",
       "confidence": "high"
     },
     {
-      "company_id": "DIS",
+      "filing_id": "0001744489-26-000013",
       "event_id": "DIS|ShareholderVote||0001744489-26-000013",
-      "filing_accession": "0001744489-26-000013",
       "source_spans": "section_0",
       "confidence": "medium"
     }
