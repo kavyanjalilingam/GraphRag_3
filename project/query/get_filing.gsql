@@ -1,0 +1,6 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_filing(VERTEX<Filing> f) FOR GRAPH SecGraph {
+  Start = {f};
+  PRINT Start;
+}

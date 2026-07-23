@@ -1,0 +1,9 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_filing_evidence(VERTEX<Filing> f) FOR GRAPH SecGraph {
+  Start = {f};
+  Metrics = SELECT t FROM Start:s -(REPORTS:e)-> MetricObservation:t;
+  Events = SELECT t FROM Start:s -(DISCLOSES:e)-> CorporateEvent:t;
+  Spans = SELECT t FROM Start:s -(HAS_SPAN:e)-> SourceSpan:t;
+  PRINT Start, Metrics, Events, Spans;
+}

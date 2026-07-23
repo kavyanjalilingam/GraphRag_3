@@ -1,0 +1,7 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_event_evidence(VERTEX<CorporateEvent> ev) FOR GRAPH SecGraph {
+  Start = {ev};
+  Spans = SELECT t FROM Start:s -(HAS_EVIDENCE:e)-> SourceSpan:t;
+  PRINT Start, Spans;
+}

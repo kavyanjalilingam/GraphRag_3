@@ -1,0 +1,8 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY list_company_metrics(VERTEX<Company> comp, STRING period_param) FOR GRAPH SecGraph {
+  Start = {comp};
+  Filings = SELECT t FROM Start:s -(FILED:e)-> Filing:t;
+  Metrics = SELECT t FROM Filings:s -(REPORTS:e)-> MetricObservation:t WHERE t.period == period_param;
+  PRINT Metrics;
+}

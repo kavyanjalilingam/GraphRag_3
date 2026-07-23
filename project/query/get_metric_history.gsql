@@ -1,0 +1,9 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_metric_history(VERTEX<Company> comp, VERTEX<MetricDefinition> metric_def) FOR GRAPH SecGraph {
+  Start = {comp};
+  Filings = SELECT t FROM Start:s -(FILED:e)-> Filing:t;
+  Metrics = SELECT t FROM Filings:s -(REPORTS:e)-> MetricObservation:t;
+  MatchedMetrics = SELECT s FROM Metrics:s -(OF_METRIC:e)-> MetricDefinition:d WHERE d == metric_def;
+  PRINT MatchedMetrics;
+}

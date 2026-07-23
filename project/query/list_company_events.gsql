@@ -1,0 +1,8 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY list_company_events(VERTEX<Company> comp) FOR GRAPH SecGraph {
+  Start = {comp};
+  Filings = SELECT t FROM Start:s -(FILED:e)-> Filing:t;
+  Events = SELECT t FROM Filings:s -(DISCLOSES:e)-> CorporateEvent:t;
+  PRINT Events;
+}

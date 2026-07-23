@@ -1,0 +1,9 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_company_snapshot(VERTEX<Company> comp) FOR GRAPH SecGraph {
+  Start = {comp};
+  Filings = SELECT t FROM Start:s -(FILED:e)-> Filing:t ORDER BY t.filing_date DESC LIMIT 5;
+  Events = SELECT t FROM Filings:s -(DISCLOSES:e)-> CorporateEvent:t ORDER BY t.date DESC LIMIT 5;
+  Metrics = SELECT t FROM Filings:s -(REPORTS:e)-> MetricObservation:t LIMIT 10;
+  PRINT Start, Filings, Events, Metrics;
+}

@@ -1,0 +1,7 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY list_company_filings(VERTEX<Company> comp) FOR GRAPH SecGraph {
+  Start = {comp};
+  Result = SELECT t FROM Start:s -(FILED:e)-> Filing:t;
+  PRINT Result;
+}

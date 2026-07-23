@@ -1,0 +1,7 @@
+USE GRAPH SecGraph
+
+CREATE OR REPLACE QUERY get_sources_for_metric(VERTEX<MetricObservation> obs) FOR GRAPH SecGraph {
+  Start = {obs};
+  Spans = SELECT t FROM Start:s -(HAS_EVIDENCE:e)-> SourceSpan:t;
+  PRINT Start, Spans;
+}
