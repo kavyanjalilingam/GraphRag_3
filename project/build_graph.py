@@ -5,7 +5,7 @@ from dataclasses import asdict
 from graph.schema import (
     Company, Filing, MetricDefinition, MetricObservation, CorporateEvent, 
     AuditFirm, Person, RoleAssignment, SourceSpan,
-    FiledEdge, ReportedEdge, OfMetricEdge, DisclosedEdge, AuditedByEdge, RoleHeldEdge, HasEvidenceEdge, HasSpanEdge
+    FiledEdge, ReportsEdge, OfMetricEdge, DisclosesEdge, AuditedByEdge, RoleHeldEdge, HasEvidenceEdge, HasSpanEdge
 )
 
 def build():
@@ -24,9 +24,9 @@ def build():
     spans = {}
     
     e_filed = []
-    e_reported = []
+    e_reports = []
     e_of_metric = []
-    e_disclosed = []
+    e_discloses = []
     e_audited = []
     e_role = []
     e_evidence = []
@@ -71,15 +71,15 @@ def build():
                     
                     if obs_id not in metric_obs:
                         metric_obs[obs_id] = MetricObservation(
-                            id=obs_id, ticker=ticker, period=period,
+                            id=obs_id, ticker=ticker, accession=accession, period=period,
                             value=val, unit=unit, scope=scope, raw_label=md.get("raw_label", "")
                         )
                     
                     e_of_metric.append(OfMetricEdge(observation_id=obs_id, definition_id=m_def))
                     spans_str = ",".join(m.get("source_spans", []))
-                    e_reported.append(ReportedEdge(
-                        company_id=ticker, observation_id=obs_id, 
-                        filing_accession=accession, source_spans=spans_str, confidence=m.get("confidence", "")
+                    e_reports.append(ReportsEdge(
+                        filing_id=accession, observation_id=obs_id, 
+                        source_spans=spans_str, confidence=m.get("confidence", "")
                     ))
                     
                     for sp in m.get("source_spans", []):
@@ -106,8 +106,8 @@ def build():
                     )
                     
                     spans_str = ",".join(ev.get("source_spans", []))
-                    e_disclosed.append(DisclosedEdge(
-                        company_id=ticker, event_id=ev_id, filing_accession=accession,
+                    e_discloses.append(DisclosesEdge(
+                        filing_id=accession, event_id=ev_id,
                         source_spans=spans_str, confidence=ev.get("confidence", "")
                     ))
                     
@@ -154,9 +154,9 @@ def build():
     }
     edges = {
         "FILED": [asdict(e) for e in e_filed],
-        "REPORTED": [asdict(e) for e in e_reported],
+        "REPORTS": [asdict(e) for e in e_reports],
         "OF_METRIC": [asdict(e) for e in e_of_metric],
-        "DISCLOSED": [asdict(e) for e in e_disclosed],
+        "DISCLOSES": [asdict(e) for e in e_discloses],
         "AUDITED_BY": [asdict(e) for e in e_audited],
         "HAS_EVIDENCE": [asdict(e) for e in e_evidence],
         "HAS_SPAN": [asdict(e) for e in e_has_span]

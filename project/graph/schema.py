@@ -24,6 +24,7 @@ class MetricDefinition:
 class MetricObservation:
     id: str  # ticker|metric|period|units|scope
     ticker: str
+    accession: str
     period: str
     value: float
     unit: str
@@ -70,10 +71,9 @@ class FiledEdge:
     filing_id: str
 
 @dataclass
-class ReportedEdge:
-    company_id: str
+class ReportsEdge:
+    filing_id: str
     observation_id: str
-    filing_accession: str
     source_spans: str  # comma separated
     confidence: str
 
@@ -83,10 +83,9 @@ class OfMetricEdge:
     definition_id: str
 
 @dataclass
-class DisclosedEdge:
-    company_id: str
+class DisclosesEdge:
+    filing_id: str
     event_id: str
-    filing_accession: str
     source_spans: str
     confidence: str
 

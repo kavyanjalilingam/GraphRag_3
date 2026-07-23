@@ -55,15 +55,15 @@ def main():
         CREATE VERTEX Company (PRIMARY_ID ticker STRING, name STRING)
         CREATE VERTEX Filing (PRIMARY_ID accession STRING, ticker STRING, form STRING, filing_date STRING, event_date STRING)
         CREATE VERTEX MetricDefinition (PRIMARY_ID name STRING)
-        CREATE VERTEX MetricObservation (PRIMARY_ID id STRING, ticker STRING, period STRING, value DOUBLE, unit STRING, scope STRING, raw_label STRING)
+        CREATE VERTEX MetricObservation (PRIMARY_ID id STRING, ticker STRING, accession STRING, period STRING, value DOUBLE, unit STRING, scope STRING, raw_label STRING)
         CREATE VERTEX CorporateEvent (PRIMARY_ID id STRING, ticker STRING, event_type STRING, date STRING, accession STRING, description STRING)
         CREATE VERTEX AuditFirm (PRIMARY_ID name STRING)
         CREATE VERTEX SourceSpan (PRIMARY_ID id STRING, accession STRING, span STRING)
         
         CREATE DIRECTED EDGE FILED (FROM Company, TO Filing)
-        CREATE DIRECTED EDGE REPORTED (FROM Company, TO MetricObservation, filing_accession STRING, source_spans STRING, confidence STRING)
+        CREATE DIRECTED EDGE REPORTS (FROM Filing, TO MetricObservation, source_spans STRING, confidence STRING)
         CREATE DIRECTED EDGE OF_METRIC (FROM MetricObservation, TO MetricDefinition)
-        CREATE DIRECTED EDGE DISCLOSED (FROM Company, TO CorporateEvent, filing_accession STRING, source_spans STRING, confidence STRING)
+        CREATE DIRECTED EDGE DISCLOSES (FROM Filing, TO CorporateEvent, source_spans STRING, confidence STRING)
         CREATE DIRECTED EDGE AUDITED_BY (FROM Company, TO AuditFirm, filing_accession STRING, source_spans STRING, confidence STRING)
         CREATE DIRECTED EDGE HAS_EVIDENCE (FROM MetricObservation|CorporateEvent|Company, TO SourceSpan, span_id STRING)
         CREATE DIRECTED EDGE HAS_SPAN (FROM Filing, TO SourceSpan)
@@ -189,9 +189,9 @@ def main():
     # I will skip HAS_EVIDENCE bulk loading for now unless necessary, or filter it correctly.
     # We will load the simple edges first.
     load_edges("FILED", "Company", "Filing", "company_id", "filing_id", "company_id")
-    load_edges("REPORTED", "Company", "MetricObservation", "company_id", "observation_id", "company_id")
+    load_edges("REPORTS", "Filing", "MetricObservation", "filing_id", "observation_id")
     load_edges("OF_METRIC", "MetricObservation", "MetricDefinition", "observation_id", "definition_id")
-    load_edges("DISCLOSED", "Company", "CorporateEvent", "company_id", "event_id", "company_id")
+    load_edges("DISCLOSES", "Filing", "CorporateEvent", "filing_id", "event_id")
     load_edges("AUDITED_BY", "Company", "AuditFirm", "company_id", "firm_id", "company_id")
     load_edges("HAS_SPAN", "Filing", "SourceSpan", "filing_id", "span_id")
     
