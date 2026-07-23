@@ -1,0 +1,45 @@
+{
+  "resolved": {
+    "auditor": "PricewaterhouseCoopers LLP",
+    "confidence": "high",
+    "source_type": "audit_signature",
+    "filing_accession": "0000858877-25-000111",
+    "extraction_rule": "RULE_004",
+    "source_spans": [
+      "section_36"
+    ]
+  },
+  "candidates": [
+    {
+      "auditor": "PricewaterhouseCoopers LLP",
+      "confidence": "high",
+      "source_type": "audit_signature",
+      "filing_accession": "0000858877-25-000111",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_36"
+      ]
+    },
+    {
+      "auditor": "PricewaterhouseCoopers LLP",
+      "confidence": "high",
+      "source_type": "def14a_ratification",
+      "filing_accession": "0000858877-25-000150",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_0",
+        "section_5"
+      ]
+    },
+    {
+      "auditor": "PricewaterhouseCoopers LLP",
+      "confidence": "medium",
+      "source_type": "committee_selection",
+      "filing_accession": "0000858877-25-000150",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_5"
+      ]
+    }
+  ]
+}

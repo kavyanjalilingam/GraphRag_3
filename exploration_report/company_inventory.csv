@@ -1,0 +1,101 @@
+ticker,company,sector,forms_counts,filings,min_bytes,max_bytes
+AAPL,Apple Inc.,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3671,301187
+ABBV,AbbVie,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,7013,428027
+ABT,Abbott Laboratories,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,3559,395565
+ACN,Accenture,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3545,386558
+ADBE,Adobe Inc.,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,7888,478738
+AIG,American International Group,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3752,755017
+AMD,Advanced Micro Devices,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,8660,481254
+AMGN,Amgen,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,4953,649998
+AMT,American Tower,Real Estate,"10-K:1, 8-K:2, DEF 14A:1",4,4538,561007
+AMZN,Amazon,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,6649,311617
+AVGO,Broadcom,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3211,372837
+AXP,American Express,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3332,635898
+BA,Boeing,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3144,426879
+BAC,Bank of America,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,7749,901124
+BKNG,Booking Holdings,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,6885,364452
+BLK,BlackRock,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3478,663724
+BMY,Bristol Myers Squibb,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,5276,538622
+BNY,Bank of New York Mellon,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,5020,370515
+BRK.B,Berkshire Hathaway (Class B),Financials,"10-K:1, 8-K:2, DEF 14A:1",4,7318,519607
+C,Citigroup,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,4259,1193472
+CAT,Caterpillar Inc.,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3671,445202
+CL,Colgate-Palmolive,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,5134,346160
+CMCSA,Comcast,Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,3622,406680
+COF,Capital One,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,4705,891049
+COP,ConocoPhillips,Energy,"10-K:1, 8-K:2, DEF 14A:1",4,2528,528089
+COST,Costco,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,2820,211383
+CRM,Salesforce,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,4940,655819
+CSCO,Cisco,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,4842,407411
+CVS,CVS Health,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,3722,770966
+CVX,Chevron Corporation,Energy,"10-K:1, 8-K:2, DEF 14A:1",4,2942,498828
+DE,Deere & Company,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3774,513129
+DHR,Danaher Corporation,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,6671,493073
+DIS,Walt Disney Company (The),Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,3455,452669
+DUK,Duke Energy,Utilities,"10-K:1, 8-K:2, DEF 14A:1",4,5512,1061513
+EMR,Emerson Electric,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,5561,303709
+FDX,FedEx,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,6466,678687
+GD,General Dynamics,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,2978,316212
+GE,GE Aerospace,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,4823,425159
+GILD,Gilead Sciences,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,4532,487215
+GM,General Motors,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,3421,460405
+GOOGL,Alphabet Inc. (Class A),Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,10695,415995
+GS,Goldman Sachs,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3961,1118584
+HD,Home Depot,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,3596,418070
+HON,Honeywell,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,11040,519965
+IBM,IBM,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,6061,431791
+INTC,Intel,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,5468,524937
+INTU,Intuit,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,5572,425592
+ISRG,Intuitive Surgical,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,3312,605174
+JNJ,Johnson & Johnson,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,3756,426914
+JPM,JPMorgan Chase,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,6024,1210983
+KO,Coca-Cola Company (The),Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,5880,612084
+LIN,Linde plc,Materials,"10-K:1, 8-K:2, DEF 14A:1",4,3106,345932
+LLY,Eli Lilly and Company,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,5458,373443
+LMT,Lockheed Martin,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3194,442166
+LOW,Lowe's,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,3693,325051
+MA,Mastercard,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,5141,458049
+MCD,McDonald's,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,3498,287013
+MDLZ,Mondelez International,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,5625,421790
+MDT,Medtronic,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,4657,495784
+MET,MetLife,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,4563,1138645
+META,Meta Platforms,Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,6924,522806
+MMM,3M,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,4435,477127
+MO,Altria,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,4303,513352
+MRK,Merck & Co.,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,5468,638835
+MS,Morgan Stanley,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,5598,790544
+MSFT,Microsoft,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3108,439123
+NEE,NextEra Energy,Utilities,"10-K:1, 8-K:2, DEF 14A:1",4,4357,550603
+NFLX,"Netflix, Inc.",Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,3808,279511
+NKE,"Nike, Inc.",Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,2930,377339
+NOW,ServiceNow,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,6730,464453
+NVDA,Nvidia,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,5445,346606
+ORCL,Oracle Corporation,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3824,436457
+PEP,PepsiCo,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,4601,429410
+PFE,Pfizer,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,4446,651633
+PG,Procter & Gamble,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,4102,451675
+PLTR,Palantir Technologies,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,4232,549930
+PM,Philip Morris International,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,4444,546768
+PYPL,PayPal,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,7402,557951
+QCOM,Qualcomm,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3766,550027
+RTX,RTX Corporation,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3779,550181
+SBUX,Starbucks,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,4189,410511
+SCHW,Charles Schwab Corporation,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3997,549645
+SO,Southern Company,Utilities,"10-K:1, 8-K:2, DEF 14A:1",4,7341,1185797
+SPG,Simon Property Group,Real Estate,"10-K:1, 8-K:2, DEF 14A:1",4,4961,734178
+T,AT&T,Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,6755,419658
+TGT,Target Corporation,Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,2927,457216
+TMO,Thermo Fisher Scientific,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,4044,334623
+TMUS,T-Mobile US,Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,5838,556861
+TSLA,"Tesla, Inc.",Consumer Discretionary,"10-K:1, 8-K:2, DEF 14A:1",4,3117,1259690
+TXN,Texas Instruments,Information Technology,"10-K:1, 8-K:2, DEF 14A:1",4,3553,209299
+UBER,Uber,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,5558,616001
+UNH,UnitedHealth Group,Health Care,"10-K:1, 8-K:2, DEF 14A:1",4,3663,428666
+UNP,Union Pacific Corporation,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3322,324797
+UPS,United Parcel Service,Industrials,"10-K:1, 8-K:2, DEF 14A:1",4,3425,445994
+USB,U.S. Bancorp,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,5766,406810
+V,Visa Inc.,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,3960,438340
+VZ,Verizon,Communication Services,"10-K:1, 8-K:2, DEF 14A:1",4,5396,459020
+WFC,Wells Fargo,Financials,"10-K:1, 8-K:2, DEF 14A:1",4,4977,537245
+WMT,Walmart,Consumer Staples,"10-K:1, 8-K:2, DEF 14A:1",4,4777,389264
+XOM,ExxonMobil,Energy,"10-K:1, 8-K:2, DEF 14A:1",4,6310,882924

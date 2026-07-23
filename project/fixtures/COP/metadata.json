@@ -1,0 +1,37 @@
+{
+  "0001104659-26-076836": {
+    "ticker": "COP",
+    "form": "8-K",
+    "accession": "0001104659-26-076836",
+    "filing_date": "2026-06-23",
+    "raw_registrant_name": "ConocoPhillips",
+    "registrant_name": "ConocoPhillips",
+    "event_date": "June 23, 2026"
+  },
+  "0001104659-26-061130": {
+    "ticker": "COP",
+    "form": "8-K",
+    "accession": "0001104659-26-061130",
+    "filing_date": "2026-05-14",
+    "raw_registrant_name": "ConocoPhillips",
+    "registrant_name": "ConocoPhillips",
+    "event_date": "May 12, 2026"
+  },
+  "0001104659-26-036366": {
+    "ticker": "COP",
+    "form": "DEF 14A",
+    "accession": "0001104659-26-036366",
+    "filing_date": "2026-03-30",
+    "raw_registrant_name": "ConocoPhillips",
+    "registrant_name": "ConocoPhillips"
+  },
+  "0001163165-26-000009": {
+    "ticker": "COP",
+    "form": "10-K",
+    "accession": "0001163165-26-000009",
+    "filing_date": "2026-02-17",
+    "raw_registrant_name": "ConocoPhillips",
+    "registrant_name": "ConocoPhillips",
+    "fiscal_year_end": "December 31, 2025"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "resolved": {
+    "auditor": "Ernst & Young LLP",
+    "confidence": "high",
+    "source_type": "audit_signature",
+    "filing_accession": "0000318154-26-000010",
+    "extraction_rule": "RULE_004",
+    "source_spans": [
+      "section_43",
+      "section_53"
+    ]
+  },
+  "candidates": [
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "audit_signature",
+      "filing_accession": "0000318154-26-000010",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_43",
+        "section_53"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "def14a_ratification",
+      "filing_accession": "0001193125-26-145588",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_30",
+        "section_37"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "8k_vote",
+      "filing_accession": "0001193125-26-232786",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_1"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "medium",
+      "source_type": "committee_selection",
+      "filing_accession": "0001193125-26-145588",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_11",
+        "section_30",
+        "section_37"
+      ]
+    }
+  ]
+}

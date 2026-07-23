@@ -1,0 +1,37 @@
+{
+  "0001193125-26-232786": {
+    "ticker": "AMGN",
+    "form": "8-K",
+    "accession": "0001193125-26-232786",
+    "filing_date": "2026-05-20",
+    "raw_registrant_name": "Amgen Inc.",
+    "registrant_name": "Amgen Inc.",
+    "event_date": "May 19, 2026"
+  },
+  "0000318154-26-000097": {
+    "ticker": "AMGN",
+    "form": "8-K",
+    "accession": "0000318154-26-000097",
+    "filing_date": "2026-05-19",
+    "raw_registrant_name": "Amgen Inc.",
+    "registrant_name": "Amgen Inc.",
+    "event_date": "May 19, 2026"
+  },
+  "0001193125-26-145588": {
+    "ticker": "AMGN",
+    "form": "DEF 14A",
+    "accession": "0001193125-26-145588",
+    "filing_date": "2026-04-07",
+    "raw_registrant_name": "Amgen",
+    "registrant_name": "Amgen Inc."
+  },
+  "0000318154-26-000010": {
+    "ticker": "AMGN",
+    "form": "10-K",
+    "accession": "0000318154-26-000010",
+    "filing_date": "2026-02-13",
+    "raw_registrant_name": "Amgen Inc.",
+    "registrant_name": "Amgen Inc.",
+    "fiscal_year_end": "December 31, 2025"
+  }
+}
