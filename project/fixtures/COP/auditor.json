@@ -1,0 +1,55 @@
+{
+  "resolved": {
+    "auditor": "Ernst & Young LLP",
+    "confidence": "high",
+    "source_type": "audit_signature",
+    "filing_accession": "0001163165-26-000009",
+    "extraction_rule": "RULE_004",
+    "source_spans": [
+      "section_15"
+    ]
+  },
+  "candidates": [
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "audit_signature",
+      "filing_accession": "0001163165-26-000009",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_15"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "def14a_ratification",
+      "filing_accession": "0001104659-26-036366",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_27",
+        "section_32"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "high",
+      "source_type": "8k_vote",
+      "filing_accession": "0001104659-26-061130",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_1"
+      ]
+    },
+    {
+      "auditor": "Ernst & Young LLP",
+      "confidence": "medium",
+      "source_type": "committee_selection",
+      "filing_accession": "0001104659-26-036366",
+      "extraction_rule": "RULE_004",
+      "source_spans": [
+        "section_25"
+      ]
+    }
+  ]
+}

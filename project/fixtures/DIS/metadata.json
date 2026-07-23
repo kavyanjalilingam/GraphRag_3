@@ -1,0 +1,37 @@
+{
+  "0001744489-26-000036": {
+    "ticker": "DIS",
+    "form": "8-K",
+    "accession": "0001744489-26-000036",
+    "filing_date": "2026-05-06",
+    "raw_registrant_name": "The Walt Disney Company",
+    "registrant_name": "The Walt Disney Company",
+    "event_date": "May 6, 2026"
+  },
+  "0001628280-26-020172": {
+    "ticker": "DIS",
+    "form": "8-K",
+    "accession": "0001628280-26-020172",
+    "filing_date": "2026-03-20",
+    "raw_registrant_name": "The Walt Disney Company",
+    "registrant_name": "The Walt Disney Company",
+    "event_date": "March 18, 2026"
+  },
+  "0001744489-26-000013": {
+    "ticker": "DIS",
+    "form": "DEF 14A",
+    "accession": "0001744489-26-000013",
+    "filing_date": "2026-01-22",
+    "raw_registrant_name": "Walt Disney Company (The)",
+    "registrant_name": "The Walt Disney Company"
+  },
+  "0001744489-25-000155": {
+    "ticker": "DIS",
+    "form": "10-K",
+    "accession": "0001744489-25-000155",
+    "filing_date": "2025-11-13",
+    "raw_registrant_name": "Walt Disney Company (The)",
+    "registrant_name": "The Walt Disney Company",
+    "fiscal_year_end": "September 27, 2025"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "0001104659-26-072929": {
+    "ticker": "CAT",
+    "form": "8-K",
+    "accession": "0001104659-26-072929",
+    "filing_date": "2026-06-11",
+    "raw_registrant_name": "CATERPILLAR INC.",
+    "registrant_name": "Caterpillar Inc."
+  },
+  "0001308179-26-000358": {
+    "ticker": "CAT",
+    "form": "DEF 14A",
+    "accession": "0001308179-26-000358",
+    "filing_date": "2026-04-30",
+    "raw_registrant_name": "Caterpillar Inc.",
+    "registrant_name": "Caterpillar Inc."
+  },
+  "0000018230-26-000017": {
+    "ticker": "CAT",
+    "form": "8-K",
+    "accession": "0000018230-26-000017",
+    "filing_date": "2026-04-30",
+    "raw_registrant_name": "CATERPILLAR INC.",
+    "registrant_name": "Caterpillar Inc.",
+    "event_date": "April 30, 2026"
+  },
+  "0000018230-26-000008": {
+    "ticker": "CAT",
+    "form": "10-K",
+    "accession": "0000018230-26-000008",
+    "filing_date": "2026-02-13",
+    "raw_registrant_name": "CATERPILLAR INC.",
+    "registrant_name": "Caterpillar Inc.",
+    "fiscal_year_end": "December 31, 2025"
+  }
+}
