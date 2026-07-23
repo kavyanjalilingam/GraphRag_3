@@ -1,0 +1,68 @@
+observation_id,definition_id
+CAT|Revenue|FY2025|USD_millions|IncomeStatement,Revenue
+CAT|Revenue|FY2024|USD_millions|IncomeStatement,Revenue
+CAT|Revenue|FY2023|USD_millions|IncomeStatement,Revenue
+CAT|Operating Income|FY2025|USD_millions|IncomeStatement,Operating Income
+CAT|Operating Income|FY2024|USD_millions|IncomeStatement,Operating Income
+CAT|Operating Income|FY2023|USD_millions|IncomeStatement,Operating Income
+CAT|Net Income|FY2025|USD_millions|IncomeStatement,Net Income
+CAT|Net Income|FY2024|USD_millions|IncomeStatement,Net Income
+CAT|Net Income|FY2023|USD_millions|IncomeStatement,Net Income
+CAT|Total Assets|FY2025|USD_millions|BalanceSheet,Total Assets
+CAT|Total Assets|FY2024|USD_millions|BalanceSheet,Total Assets
+CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet,Total Liabilities
+CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet,Total Liabilities
+CAT|Total Equity|FY2025|USD_millions|BalanceSheet,Total Equity
+CAT|Total Equity|FY2024|USD_millions|BalanceSheet,Total Equity
+AMGN|Revenue|FY2025|USD_millions|IncomeStatement,Revenue
+AMGN|Revenue|FY2024|USD_millions|IncomeStatement,Revenue
+AMGN|Revenue|FY2023|USD_millions|IncomeStatement,Revenue
+AMGN|Operating Income|FY2025|USD_millions|IncomeStatement,Operating Income
+AMGN|Operating Income|FY2024|USD_millions|IncomeStatement,Operating Income
+AMGN|Operating Income|FY2023|USD_millions|IncomeStatement,Operating Income
+AMGN|Net Income|FY2025|USD_millions|IncomeStatement,Net Income
+AMGN|Net Income|FY2024|USD_millions|IncomeStatement,Net Income
+AMGN|Net Income|FY2023|USD_millions|IncomeStatement,Net Income
+AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,Total Assets
+AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,Total Assets
+AMGN|Total Equity|FY2025|USD_millions|BalanceSheet,Total Equity
+AMGN|Total Equity|FY2024|USD_millions|BalanceSheet,Total Equity
+AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,Operating Cash Flow
+AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,Operating Cash Flow
+AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,Operating Cash Flow
+AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,Investing Cash Flow
+AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,Investing Cash Flow
+AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,Investing Cash Flow
+AMGN|CapEx|FY2025|USD_millions|CashFlow,CapEx
+AMGN|CapEx|FY2024|USD_millions|CashFlow,CapEx
+AMGN|CapEx|FY2023|USD_millions|CashFlow,CapEx
+COP|Net Income|FY2025|USD_millions|IncomeStatement,Net Income
+COP|Net Income|FY2024|USD_millions|IncomeStatement,Net Income
+COP|Net Income|FY2023|USD_millions|IncomeStatement,Net Income
+COP|Total Assets|FY2025|USD_millions|BalanceSheet,Total Assets
+COP|Total Assets|FY2024|USD_millions|BalanceSheet,Total Assets
+COP|Total Liabilities|FY2025|USD_millions|BalanceSheet,Total Liabilities
+COP|Total Liabilities|FY2024|USD_millions|BalanceSheet,Total Liabilities
+COP|Total Equity|FY2025|USD_millions|BalanceSheet,Total Equity
+COP|Total Equity|FY2024|USD_millions|BalanceSheet,Total Equity
+COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,Operating Cash Flow
+COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,Operating Cash Flow
+COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,Operating Cash Flow
+COP|Investing Cash Flow|FY2025|USD_millions|CashFlow,Investing Cash Flow
+COP|Investing Cash Flow|FY2024|USD_millions|CashFlow,Investing Cash Flow
+COP|Investing Cash Flow|FY2023|USD_millions|CashFlow,Investing Cash Flow
+COP|Financing Cash Flow|FY2025|USD_millions|CashFlow,Financing Cash Flow
+COP|Financing Cash Flow|FY2024|USD_millions|CashFlow,Financing Cash Flow
+COP|Financing Cash Flow|FY2023|USD_millions|CashFlow,Financing Cash Flow
+DIS|Revenue|FY2025|USD_millions|IncomeStatement,Revenue
+DIS|Revenue|FY2024|USD_millions|IncomeStatement,Revenue
+DIS|Revenue|FY2023|USD_millions|IncomeStatement,Revenue
+DIS|Total Assets|FY2025|USD_millions|BalanceSheet,Total Assets
+DIS|Total Assets|FY2024|USD_millions|BalanceSheet,Total Assets
+DIS|Total Equity|FY2025|USD_millions|BalanceSheet,Total Equity
+DIS|Total Equity|FY2024|USD_millions|BalanceSheet,Total Equity
+DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet,Total Liabilities
+DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet,Total Liabilities
+DIS|CapEx|FY2025|USD_millions|CashFlow,CapEx
+DIS|CapEx|FY2024|USD_millions|CashFlow,CapEx
+DIS|CapEx|FY2023|USD_millions|CashFlow,CapEx

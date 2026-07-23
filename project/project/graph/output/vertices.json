@@ -1,0 +1,1049 @@
+{
+  "Company": [
+    {
+      "ticker": "CAT",
+      "name": "CAT"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "AMGN"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "CSCO"
+    },
+    {
+      "ticker": "COP",
+      "name": "COP"
+    },
+    {
+      "ticker": "DIS",
+      "name": "DIS"
+    }
+  ],
+  "Filing": [
+    {
+      "accession": "0000018230-26-000008",
+      "ticker": "CAT",
+      "form": "10-K",
+      "filing_date": "2026-02-13",
+      "event_date": ""
+    },
+    {
+      "accession": "0000018230-26-000017",
+      "ticker": "CAT",
+      "form": "8-K",
+      "filing_date": "2026-04-30",
+      "event_date": "April 30, 2026"
+    },
+    {
+      "accession": "0000318154-26-000010",
+      "ticker": "AMGN",
+      "form": "10-K",
+      "filing_date": "2026-02-13",
+      "event_date": ""
+    },
+    {
+      "accession": "0000318154-26-000097",
+      "ticker": "AMGN",
+      "form": "8-K",
+      "filing_date": "2026-05-19",
+      "event_date": "May 19, 2026"
+    },
+    {
+      "accession": "0000858877-25-000111",
+      "ticker": "CSCO",
+      "form": "10-K",
+      "filing_date": "2025-09-03",
+      "event_date": ""
+    },
+    {
+      "accession": "0000858877-25-000150",
+      "ticker": "CSCO",
+      "form": "DEF 14A",
+      "filing_date": "2025-10-28",
+      "event_date": ""
+    },
+    {
+      "accession": "0000858877-26-000057",
+      "ticker": "CSCO",
+      "form": "8-K",
+      "filing_date": "2026-05-01",
+      "event_date": "April 27, 2026"
+    },
+    {
+      "accession": "0000858877-26-000075",
+      "ticker": "CSCO",
+      "form": "8-K",
+      "filing_date": "2026-05-13",
+      "event_date": "May 13, 2026"
+    },
+    {
+      "accession": "0001104659-26-036366",
+      "ticker": "COP",
+      "form": "DEF 14A",
+      "filing_date": "2026-03-30",
+      "event_date": ""
+    },
+    {
+      "accession": "0001104659-26-061130",
+      "ticker": "COP",
+      "form": "8-K",
+      "filing_date": "2026-05-14",
+      "event_date": "May 12, 2026"
+    },
+    {
+      "accession": "0001104659-26-072929",
+      "ticker": "CAT",
+      "form": "8-K",
+      "filing_date": "2026-06-11",
+      "event_date": ""
+    },
+    {
+      "accession": "0001104659-26-076836",
+      "ticker": "COP",
+      "form": "8-K",
+      "filing_date": "2026-06-23",
+      "event_date": "June 23, 2026"
+    },
+    {
+      "accession": "0001163165-26-000009",
+      "ticker": "COP",
+      "form": "10-K",
+      "filing_date": "2026-02-17",
+      "event_date": ""
+    },
+    {
+      "accession": "0001193125-26-145588",
+      "ticker": "AMGN",
+      "form": "DEF 14A",
+      "filing_date": "2026-04-07",
+      "event_date": ""
+    },
+    {
+      "accession": "0001193125-26-232786",
+      "ticker": "AMGN",
+      "form": "8-K",
+      "filing_date": "2026-05-20",
+      "event_date": "May 19, 2026"
+    },
+    {
+      "accession": "0001308179-26-000358",
+      "ticker": "CAT",
+      "form": "DEF 14A",
+      "filing_date": "2026-04-30",
+      "event_date": ""
+    },
+    {
+      "accession": "0001628280-26-020172",
+      "ticker": "DIS",
+      "form": "8-K",
+      "filing_date": "2026-03-20",
+      "event_date": "March 18, 2026"
+    },
+    {
+      "accession": "0001744489-25-000155",
+      "ticker": "DIS",
+      "form": "10-K",
+      "filing_date": "2025-11-13",
+      "event_date": ""
+    },
+    {
+      "accession": "0001744489-26-000013",
+      "ticker": "DIS",
+      "form": "DEF 14A",
+      "filing_date": "2026-01-22",
+      "event_date": ""
+    },
+    {
+      "accession": "0001744489-26-000036",
+      "ticker": "DIS",
+      "form": "8-K",
+      "filing_date": "2026-05-06",
+      "event_date": "May 6, 2026"
+    }
+  ],
+  "MetricDefinition": [
+    {
+      "name": "Revenue"
+    },
+    {
+      "name": "Operating Income"
+    },
+    {
+      "name": "Net Income"
+    },
+    {
+      "name": "Total Assets"
+    },
+    {
+      "name": "Total Liabilities"
+    },
+    {
+      "name": "Total Equity"
+    },
+    {
+      "name": "Operating Cash Flow"
+    },
+    {
+      "name": "Investing Cash Flow"
+    },
+    {
+      "name": "CapEx"
+    },
+    {
+      "name": "Financing Cash Flow"
+    }
+  ],
+  "MetricObservation": [
+    {
+      "id": "CAT|Revenue|FY2025|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 67589,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total sales and revenues"
+    },
+    {
+      "id": "CAT|Revenue|FY2024|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 64809,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total sales and revenues"
+    },
+    {
+      "id": "CAT|Revenue|FY2023|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2023",
+      "value": 67060,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total sales and revenues"
+    },
+    {
+      "id": "CAT|Operating Income|FY2025|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 11151,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating profit"
+    },
+    {
+      "id": "CAT|Operating Income|FY2024|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 13072,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating profit"
+    },
+    {
+      "id": "CAT|Operating Income|FY2023|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2023",
+      "value": 12966,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating profit"
+    },
+    {
+      "id": "CAT|Net Income|FY2025|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 8882,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Profit of consolidated and affiliated companies"
+    },
+    {
+      "id": "CAT|Net Income|FY2024|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 10788,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Profit of consolidated and affiliated companies"
+    },
+    {
+      "id": "CAT|Net Income|FY2023|USD_millions|IncomeStatement",
+      "ticker": "CAT",
+      "period": "FY2023",
+      "value": 10332,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Profit of consolidated and affiliated companies"
+    },
+    {
+      "id": "CAT|Total Assets|FY2025|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 98585,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "CAT|Total Assets|FY2024|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 87764,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 77267,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 68270,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "CAT|Total Equity|FY2025|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2025",
+      "value": 21318,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total shareholders\u2019 equity"
+    },
+    {
+      "id": "CAT|Total Equity|FY2024|USD_millions|BalanceSheet",
+      "ticker": "CAT",
+      "period": "FY2024",
+      "value": 19494,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total shareholders\u2019 equity"
+    },
+    {
+      "id": "AMGN|Revenue|FY2025|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 35148,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Product sales"
+    },
+    {
+      "id": "AMGN|Revenue|FY2024|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 32026,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Product sales"
+    },
+    {
+      "id": "AMGN|Revenue|FY2023|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": 26910,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Product sales"
+    },
+    {
+      "id": "AMGN|Operating Income|FY2025|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 9080,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating income"
+    },
+    {
+      "id": "AMGN|Operating Income|FY2024|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 7258,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating income"
+    },
+    {
+      "id": "AMGN|Operating Income|FY2023|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": 7897,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Operating income"
+    },
+    {
+      "id": "AMGN|Net Income|FY2025|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 7711,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income"
+    },
+    {
+      "id": "AMGN|Net Income|FY2024|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 4090,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income"
+    },
+    {
+      "id": "AMGN|Net Income|FY2023|USD_millions|IncomeStatement",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": 6717,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income"
+    },
+    {
+      "id": "AMGN|Total Assets|FY2025|USD_millions|BalanceSheet",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 90586,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "AMGN|Total Assets|FY2024|USD_millions|BalanceSheet",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 91839,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "AMGN|Total Equity|FY2025|USD_millions|BalanceSheet",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 8658,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total stockholders\u2019 equity"
+    },
+    {
+      "id": "AMGN|Total Equity|FY2024|USD_millions|BalanceSheet",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 5877,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total stockholders\u2019 equity"
+    },
+    {
+      "id": "AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": 9958,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": 11490,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": 8471,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": -1943,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": -1046,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": -26204,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "AMGN|CapEx|FY2025|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2025",
+      "value": -1858,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Purchases of property, plant and equipment"
+    },
+    {
+      "id": "AMGN|CapEx|FY2024|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2024",
+      "value": -1096,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Purchases of property, plant and equipment"
+    },
+    {
+      "id": "AMGN|CapEx|FY2023|USD_millions|CashFlow",
+      "ticker": "AMGN",
+      "period": "FY2023",
+      "value": -1112,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Purchases of property, plant and equipment"
+    },
+    {
+      "id": "COP|Net Income|FY2025|USD_millions|IncomeStatement",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": 7988,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income (loss)"
+    },
+    {
+      "id": "COP|Net Income|FY2024|USD_millions|IncomeStatement",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": 9245,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income (loss)"
+    },
+    {
+      "id": "COP|Net Income|FY2023|USD_millions|IncomeStatement",
+      "ticker": "COP",
+      "period": "FY2023",
+      "value": 10957,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Net income (loss)"
+    },
+    {
+      "id": "COP|Total Assets|FY2025|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": 121939,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "COP|Total Assets|FY2024|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": 122780,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "COP|Total Liabilities|FY2025|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": 57452,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "COP|Total Liabilities|FY2024|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": 57984,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "COP|Total Equity|FY2025|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": 64487,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total equity"
+    },
+    {
+      "id": "COP|Total Equity|FY2024|USD_millions|BalanceSheet",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": 64796,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total equity"
+    },
+    {
+      "id": "COP|Operating Cash Flow|FY2025|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": 19796,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "COP|Operating Cash Flow|FY2024|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": 20124,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "COP|Operating Cash Flow|FY2023|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2023",
+      "value": 19965,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash provided by operating activities"
+    },
+    {
+      "id": "COP|Investing Cash Flow|FY2025|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": -8836,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "COP|Investing Cash Flow|FY2024|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": -11150,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "COP|Investing Cash Flow|FY2023|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2023",
+      "value": -12000,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in investing activities"
+    },
+    {
+      "id": "COP|Financing Cash Flow|FY2025|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2025",
+      "value": -10102,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in financing activities"
+    },
+    {
+      "id": "COP|Financing Cash Flow|FY2024|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2024",
+      "value": -8835,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in financing activities"
+    },
+    {
+      "id": "COP|Financing Cash Flow|FY2023|USD_millions|CashFlow",
+      "ticker": "COP",
+      "period": "FY2023",
+      "value": -8661,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Net cash used in financing activities"
+    },
+    {
+      "id": "DIS|Revenue|FY2025|USD_millions|IncomeStatement",
+      "ticker": "DIS",
+      "period": "FY2025",
+      "value": 94425,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total revenues"
+    },
+    {
+      "id": "DIS|Revenue|FY2024|USD_millions|IncomeStatement",
+      "ticker": "DIS",
+      "period": "FY2024",
+      "value": 91361,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total revenues"
+    },
+    {
+      "id": "DIS|Revenue|FY2023|USD_millions|IncomeStatement",
+      "ticker": "DIS",
+      "period": "FY2023",
+      "value": 88898,
+      "unit": "USD_millions",
+      "scope": "IncomeStatement",
+      "raw_label": "Total revenues"
+    },
+    {
+      "id": "DIS|Total Assets|FY2025|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2025",
+      "value": 197514,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "DIS|Total Assets|FY2024|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2024",
+      "value": 196219,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total assets"
+    },
+    {
+      "id": "DIS|Total Equity|FY2025|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2025",
+      "value": 114612,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total equity"
+    },
+    {
+      "id": "DIS|Total Equity|FY2024|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2024",
+      "value": 105522,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total equity"
+    },
+    {
+      "id": "DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2025",
+      "value": 2298,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet",
+      "ticker": "DIS",
+      "period": "FY2024",
+      "value": 2396,
+      "unit": "USD_millions",
+      "scope": "BalanceSheet",
+      "raw_label": "Total liabilities"
+    },
+    {
+      "id": "DIS|CapEx|FY2025|USD_millions|CashFlow",
+      "ticker": "DIS",
+      "period": "FY2025",
+      "value": 2025,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Capital expenditures"
+    },
+    {
+      "id": "DIS|CapEx|FY2024|USD_millions|CashFlow",
+      "ticker": "DIS",
+      "period": "FY2024",
+      "value": 2024,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Capital expenditures"
+    },
+    {
+      "id": "DIS|CapEx|FY2023|USD_millions|CashFlow",
+      "ticker": "DIS",
+      "period": "FY2023",
+      "value": 2023,
+      "unit": "USD_millions",
+      "scope": "CashFlow",
+      "raw_label": "Capital expenditures"
+    }
+  ],
+  "CorporateEvent": [
+    {
+      "id": "CAT|Earnings|April 30, 2026|0000018230-26-000017",
+      "ticker": "CAT",
+      "event_type": "Earnings",
+      "date": "April 30, 2026",
+      "accession": "0000018230-26-000017",
+      "description": "Results of Operations and Financial Condition"
+    },
+    {
+      "id": "AMGN|OfficerDirectorChange|May 19, 2026|0000318154-26-000097",
+      "ticker": "AMGN",
+      "event_type": "OfficerDirectorChange",
+      "date": "May 19, 2026",
+      "accession": "0000318154-26-000097",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "CSCO|ShareholderVote||0000858877-25-000150",
+      "ticker": "CSCO",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0000858877-25-000150",
+      "description": "Annual Meeting of Shareholders / Proxy Statement"
+    },
+    {
+      "id": "CSCO|OfficerDirectorChange|April 27, 2026|0000858877-26-000057",
+      "ticker": "CSCO",
+      "event_type": "OfficerDirectorChange",
+      "date": "April 27, 2026",
+      "accession": "0000858877-26-000057",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "CSCO|OfficerDirectorChange|May 13, 2026|0000858877-26-000075",
+      "ticker": "CSCO",
+      "event_type": "OfficerDirectorChange",
+      "date": "May 13, 2026",
+      "accession": "0000858877-26-000075",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "COP|ShareholderVote||0001104659-26-036366",
+      "ticker": "COP",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0001104659-26-036366",
+      "description": "Annual Meeting of Shareholders / Proxy Statement"
+    },
+    {
+      "id": "COP|OfficerDirectorChange|May 12, 2026|0001104659-26-061130",
+      "ticker": "COP",
+      "event_type": "OfficerDirectorChange",
+      "date": "May 12, 2026",
+      "accession": "0001104659-26-061130",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "CAT|ShareholderVote||0001104659-26-072929",
+      "ticker": "CAT",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0001104659-26-072929",
+      "description": "Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "id": "CAT|OfficerDirectorChange||0001104659-26-072929",
+      "ticker": "CAT",
+      "event_type": "OfficerDirectorChange",
+      "date": "",
+      "accession": "0001104659-26-072929",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "COP|OfficerDirectorChange|June 23, 2026|0001104659-26-076836",
+      "ticker": "COP",
+      "event_type": "OfficerDirectorChange",
+      "date": "June 23, 2026",
+      "accession": "0001104659-26-076836",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "AMGN|ShareholderVote||0001193125-26-145588",
+      "ticker": "AMGN",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0001193125-26-145588",
+      "description": "Annual Meeting of Shareholders / Proxy Statement"
+    },
+    {
+      "id": "AMGN|ShareholderVote|May 19, 2026|0001193125-26-232786",
+      "ticker": "AMGN",
+      "event_type": "ShareholderVote",
+      "date": "May 19, 2026",
+      "accession": "0001193125-26-232786",
+      "description": "Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "id": "AMGN|OfficerDirectorChange|May 19, 2026|0001193125-26-232786",
+      "ticker": "AMGN",
+      "event_type": "OfficerDirectorChange",
+      "date": "May 19, 2026",
+      "accession": "0001193125-26-232786",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "CAT|ShareholderVote||0001308179-26-000358",
+      "ticker": "CAT",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0001308179-26-000358",
+      "description": "Annual Meeting of Shareholders / Proxy Statement"
+    },
+    {
+      "id": "DIS|ShareholderVote|March 18, 2026|0001628280-26-020172",
+      "ticker": "DIS",
+      "event_type": "ShareholderVote",
+      "date": "March 18, 2026",
+      "accession": "0001628280-26-020172",
+      "description": "Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "id": "DIS|OfficerDirectorChange|March 18, 2026|0001628280-26-020172",
+      "ticker": "DIS",
+      "event_type": "OfficerDirectorChange",
+      "date": "March 18, 2026",
+      "accession": "0001628280-26-020172",
+      "description": "Departure, Election, or Appointment of Directors/Officers"
+    },
+    {
+      "id": "DIS|ShareholderVote||0001744489-26-000013",
+      "ticker": "DIS",
+      "event_type": "ShareholderVote",
+      "date": "",
+      "accession": "0001744489-26-000013",
+      "description": "Annual Meeting of Shareholders / Proxy Statement"
+    }
+  ],
+  "AuditFirm": [],
+  "SourceSpan": [
+    {
+      "id": "0000018230-26-000008|section_38",
+      "accession": "0000018230-26-000008",
+      "span": "section_38"
+    },
+    {
+      "id": "0000018230-26-000017|section_1",
+      "accession": "0000018230-26-000017",
+      "span": "section_1"
+    },
+    {
+      "id": "0000318154-26-000010|section_53",
+      "accession": "0000318154-26-000010",
+      "span": "section_53"
+    },
+    {
+      "id": "0000318154-26-000010|section_39",
+      "accession": "0000318154-26-000010",
+      "span": "section_39"
+    },
+    {
+      "id": "0000318154-26-000097|section_1",
+      "accession": "0000318154-26-000097",
+      "span": "section_1"
+    },
+    {
+      "id": "0000858877-25-000150|section_0",
+      "accession": "0000858877-25-000150",
+      "span": "section_0"
+    },
+    {
+      "id": "0000858877-26-000057|section_1",
+      "accession": "0000858877-26-000057",
+      "span": "section_1"
+    },
+    {
+      "id": "0000858877-26-000075|section_4",
+      "accession": "0000858877-26-000075",
+      "span": "section_4"
+    },
+    {
+      "id": "0001104659-26-036366|section_0",
+      "accession": "0001104659-26-036366",
+      "span": "section_0"
+    },
+    {
+      "id": "0001104659-26-061130|section_1",
+      "accession": "0001104659-26-061130",
+      "span": "section_1"
+    },
+    {
+      "id": "0001104659-26-072929|section_1",
+      "accession": "0001104659-26-072929",
+      "span": "section_1"
+    },
+    {
+      "id": "0001104659-26-076836|section_1",
+      "accession": "0001104659-26-076836",
+      "span": "section_1"
+    },
+    {
+      "id": "0001163165-26-000009|section_13",
+      "accession": "0001163165-26-000009",
+      "span": "section_13"
+    },
+    {
+      "id": "0001163165-26-000009|section_15",
+      "accession": "0001163165-26-000009",
+      "span": "section_15"
+    },
+    {
+      "id": "0001193125-26-145588|section_0",
+      "accession": "0001193125-26-145588",
+      "span": "section_0"
+    },
+    {
+      "id": "0001193125-26-232786|section_1",
+      "accession": "0001193125-26-232786",
+      "span": "section_1"
+    },
+    {
+      "id": "0001308179-26-000358|section_0",
+      "accession": "0001308179-26-000358",
+      "span": "section_0"
+    },
+    {
+      "id": "0001628280-26-020172|section_2",
+      "accession": "0001628280-26-020172",
+      "span": "section_2"
+    },
+    {
+      "id": "0001628280-26-020172|section_1",
+      "accession": "0001628280-26-020172",
+      "span": "section_1"
+    },
+    {
+      "id": "0001744489-25-000155|section_47",
+      "accession": "0001744489-25-000155",
+      "span": "section_47"
+    },
+    {
+      "id": "0001744489-26-000013|section_0",
+      "accession": "0001744489-26-000013",
+      "span": "section_0"
+    }
+  ]
+}

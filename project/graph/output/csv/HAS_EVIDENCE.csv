@@ -1,0 +1,99 @@
+source_id,target_id,span_id
+CAT|Revenue|FY2025|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Revenue|FY2024|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Revenue|FY2023|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Operating Income|FY2025|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Operating Income|FY2024|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Operating Income|FY2023|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Net Income|FY2025|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Net Income|FY2024|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Net Income|FY2023|USD_millions|IncomeStatement,0000018230-26-000008|section_38,section_38
+CAT|Total Assets|FY2025|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+CAT|Total Assets|FY2024|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+CAT|Total Liabilities|FY2025|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+CAT|Total Liabilities|FY2024|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+CAT|Total Equity|FY2025|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+CAT|Total Equity|FY2024|USD_millions|BalanceSheet,0000018230-26-000008|section_38,section_38
+"CAT|Earnings|April 30, 2026|0000018230-26-000017",0000018230-26-000017|section_1,section_1
+AMGN|Revenue|FY2025|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Revenue|FY2024|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Revenue|FY2023|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Operating Income|FY2025|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Operating Income|FY2024|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Operating Income|FY2023|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Net Income|FY2025|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Net Income|FY2024|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Net Income|FY2023|USD_millions|IncomeStatement,0000318154-26-000010|section_53,section_53
+AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,0000318154-26-000010|section_39,section_39
+AMGN|Total Assets|FY2025|USD_millions|BalanceSheet,0000318154-26-000010|section_53,section_53
+AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,0000318154-26-000010|section_39,section_39
+AMGN|Total Assets|FY2024|USD_millions|BalanceSheet,0000318154-26-000010|section_53,section_53
+AMGN|Total Equity|FY2025|USD_millions|BalanceSheet,0000318154-26-000010|section_53,section_53
+AMGN|Total Equity|FY2024|USD_millions|BalanceSheet,0000318154-26-000010|section_53,section_53
+AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Operating Cash Flow|FY2025|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Operating Cash Flow|FY2024|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Operating Cash Flow|FY2023|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Investing Cash Flow|FY2025|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Investing Cash Flow|FY2024|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,0000318154-26-000010|section_39,section_39
+AMGN|Investing Cash Flow|FY2023|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|CapEx|FY2025|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|CapEx|FY2024|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+AMGN|CapEx|FY2023|USD_millions|CashFlow,0000318154-26-000010|section_53,section_53
+"AMGN|OfficerDirectorChange|May 19, 2026|0000318154-26-000097",0000318154-26-000097|section_1,section_1
+CSCO|ShareholderVote||0000858877-25-000150,0000858877-25-000150|section_0,section_0
+"CSCO|OfficerDirectorChange|April 27, 2026|0000858877-26-000057",0000858877-26-000057|section_1,section_1
+"CSCO|OfficerDirectorChange|May 13, 2026|0000858877-26-000075",0000858877-26-000075|section_4,section_4
+COP|ShareholderVote||0001104659-26-036366,0001104659-26-036366|section_0,section_0
+"COP|OfficerDirectorChange|May 12, 2026|0001104659-26-061130",0001104659-26-061130|section_1,section_1
+CAT|ShareholderVote||0001104659-26-072929,0001104659-26-072929|section_1,section_1
+CAT|OfficerDirectorChange||0001104659-26-072929,0001104659-26-072929|section_1,section_1
+"COP|OfficerDirectorChange|June 23, 2026|0001104659-26-076836",0001104659-26-076836|section_1,section_1
+COP|Net Income|FY2025|USD_millions|IncomeStatement,0001163165-26-000009|section_13,section_13
+COP|Net Income|FY2025|USD_millions|IncomeStatement,0001163165-26-000009|section_15,section_15
+COP|Net Income|FY2024|USD_millions|IncomeStatement,0001163165-26-000009|section_13,section_13
+COP|Net Income|FY2024|USD_millions|IncomeStatement,0001163165-26-000009|section_15,section_15
+COP|Net Income|FY2023|USD_millions|IncomeStatement,0001163165-26-000009|section_13,section_13
+COP|Net Income|FY2023|USD_millions|IncomeStatement,0001163165-26-000009|section_15,section_15
+COP|Total Assets|FY2025|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Total Assets|FY2024|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Total Liabilities|FY2025|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Total Liabilities|FY2024|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Total Equity|FY2025|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Total Equity|FY2024|USD_millions|BalanceSheet,0001163165-26-000009|section_15,section_15
+COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,0001163165-26-000009|section_13,section_13
+COP|Operating Cash Flow|FY2025|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,0001163165-26-000009|section_13,section_13
+COP|Operating Cash Flow|FY2024|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,0001163165-26-000009|section_13,section_13
+COP|Operating Cash Flow|FY2023|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Investing Cash Flow|FY2025|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Investing Cash Flow|FY2024|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Investing Cash Flow|FY2023|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Financing Cash Flow|FY2025|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Financing Cash Flow|FY2024|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+COP|Financing Cash Flow|FY2023|USD_millions|CashFlow,0001163165-26-000009|section_15,section_15
+AMGN|ShareholderVote||0001193125-26-145588,0001193125-26-145588|section_0,section_0
+"AMGN|ShareholderVote|May 19, 2026|0001193125-26-232786",0001193125-26-232786|section_1,section_1
+"AMGN|OfficerDirectorChange|May 19, 2026|0001193125-26-232786",0001193125-26-232786|section_1,section_1
+CAT|ShareholderVote||0001308179-26-000358,0001308179-26-000358|section_0,section_0
+"DIS|ShareholderVote|March 18, 2026|0001628280-26-020172",0001628280-26-020172|section_2,section_2
+"DIS|OfficerDirectorChange|March 18, 2026|0001628280-26-020172",0001628280-26-020172|section_1,section_1
+DIS|Revenue|FY2025|USD_millions|IncomeStatement,0001744489-25-000155|section_47,section_47
+DIS|Revenue|FY2024|USD_millions|IncomeStatement,0001744489-25-000155|section_47,section_47
+DIS|Revenue|FY2023|USD_millions|IncomeStatement,0001744489-25-000155|section_47,section_47
+DIS|Total Assets|FY2025|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|Total Assets|FY2024|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|Total Equity|FY2025|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|Total Equity|FY2024|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|Total Liabilities|FY2025|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|Total Liabilities|FY2024|USD_millions|BalanceSheet,0001744489-25-000155|section_47,section_47
+DIS|CapEx|FY2025|USD_millions|CashFlow,0001744489-25-000155|section_47,section_47
+DIS|CapEx|FY2024|USD_millions|CashFlow,0001744489-25-000155|section_47,section_47
+DIS|CapEx|FY2023|USD_millions|CashFlow,0001744489-25-000155|section_47,section_47
+DIS|ShareholderVote||0001744489-26-000013,0001744489-26-000013|section_0,section_0

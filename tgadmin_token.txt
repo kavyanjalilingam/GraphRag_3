@@ -1,0 +1,4 @@
+# SecGraph Access Token
+# User: tgadmin
+Token:
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0Z2FkbWluIiwiaWF0IjoxNzg0Nzg4MDA0LCJleHAiOjE3ODUzOTI4MDksImlzcyI6IlRpZ2VyR3JhcGgifQ.LySEWt1L8fEeWaVTAl65ieAhTqAg4u2_KacHC5zaD_k
