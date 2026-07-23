@@ -12,6 +12,7 @@ class OtherEventsExtractor:
                 # Item 1.01 Entry into a Material Definitive Agreement
                 if re.search(r'Item\s+1\.01', text, re.IGNORECASE):
                     observations.append({
+                        "extractor": "other_events",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],
@@ -26,6 +27,7 @@ class OtherEventsExtractor:
                 if re.search(r'Item\s+2\.01', text, re.IGNORECASE) or re.search(r'Acquisition', text, re.IGNORECASE) and re.search(r'Item\s+8\.01', text, re.IGNORECASE):
                     # Sometimes acquisitions are announced in 8.01 Other Events
                     observations.append({
+                        "extractor": "other_events",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],
@@ -39,6 +41,7 @@ class OtherEventsExtractor:
                 # Item 2.02 Results of Operations and Financial Condition (Earnings)
                 if re.search(r'Item\s+2\.02', text, re.IGNORECASE):
                     observations.append({
+                        "extractor": "other_events",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],
@@ -52,6 +55,7 @@ class OtherEventsExtractor:
                 # Dividends can be in 8.01 or 7.01
                 if re.search(r'dividend', text, re.IGNORECASE) and (re.search(r'Item\s+8\.01', text, re.IGNORECASE) or re.search(r'Item\s+7\.01', text, re.IGNORECASE)):
                     observations.append({
+                        "extractor": "other_events",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],

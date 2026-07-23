@@ -46,19 +46,18 @@ def main():
         for ext in extractors:
             observations.extend(ext.extract(accession, parsed))
         
-        # Deduplicate exactly identical observations
+        # Deduplicate identically-keyed observations
         unique_obs = []
         seen = set()
         for obs in observations:
-            # We don't want to lose different spans, so maybe just dedup by (metric, period, value)
-            key = (obs["data"]["metric_definition"], obs["data"]["period"], obs["data"]["value"])
+            key = (obs["data"]["metric_definition"], obs["data"]["period"], obs["data"]["statement"], obs["filing_accession"])
             if key not in seen:
                 seen.add(key)
                 unique_obs.append(obs)
             else:
                 # Append source span if it's the same metric
                 for existing in unique_obs:
-                    if (existing["data"]["metric_definition"], existing["data"]["period"], existing["data"]["value"]) == key:
+                    if (existing["data"]["metric_definition"], existing["data"]["period"], existing["data"]["statement"], existing["filing_accession"]) == key:
                         existing["source_spans"].extend(x for x in obs["source_spans"] if x not in existing["source_spans"])
                         break
         

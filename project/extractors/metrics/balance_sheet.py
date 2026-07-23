@@ -7,7 +7,7 @@ class BalanceSheetExtractor:
         
     def extract(self, accession, parsed_filing):
         observations = []
-        found_metrics = set()
+
         form = parsed_filing.get("form")
         
         for idx, section in enumerate(parsed_filing.get("sections", [])):
@@ -34,8 +34,7 @@ class BalanceSheetExtractor:
                     raw_label = match.group(1).strip()
                     canonical_name = self.canonicalizer.canonicalize(raw_label, "BalanceSheet")
                     
-                    if canonical_name and canonical_name not in found_metrics:
-                        found_metrics.add(canonical_name)
+                    if canonical_name:
                         values_str = match.groups()[1:]
                         for i, val_str in enumerate(values_str):
                             is_negative = '(' in val_str
@@ -53,6 +52,7 @@ class BalanceSheetExtractor:
                             unit = "USD_millions"
                                 
                             observations.append({
+                        "extractor": "balance_sheet",
                                 "rule": "RULE_006",
                                 "confidence": "medium",
                                 "source_spans": [f"section_{idx}"],

@@ -17,6 +17,7 @@ class ShareholderVoteExtractor:
                 if has_item or has_content:
                     # We found a Shareholder Vote event!
                     observations.append({
+                        "extractor": "shareholder_vote",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],
@@ -37,6 +38,7 @@ class ShareholderVoteExtractor:
                 text = section.get("text", "")
                 if "Notice of Annual Meeting of Shareholders" in text or "Proxy Statement" in text:
                     observations.append({
+                        "extractor": "shareholder_vote",
                         "rule": "RULE_005",
                         "confidence": "medium",
                         "source_spans": [f"section_{idx}"],

@@ -25,6 +25,7 @@ class OfficerDirectorExtractor:
                 
                 if has_item or has_content:
                     observations.append({
+                        "extractor": "officer_director",
                         "rule": "RULE_005",
                         "confidence": "high",
                         "source_spans": [f"section_{idx}"],
