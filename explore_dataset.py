@@ -128,6 +128,8 @@ structure={
 '8-K':'Cover page; one or more numbered Item sections; narrative disclosure; exhibits (often earnings release); signatures. Most common event-centric items are earnings/results, material agreements, departures/appointments, financial obligations, and shareholder matters. Formatting varies most because the form is event driven.',
 'DEF 14A':'Schedule 14A cover; annual-meeting/voting instructions; proposals; board and director biographies; governance/committees; executive compensation (CD&A, pay tables); ownership; audit/auditor ratification; related-party and shareholder-proposal material. Tables recur for director/committee membership, ownership and compensation.'}
 
+doc_structure_text=''.join('### '+form+'\n\n'+desc+'\n\nCommon heading evidence (number of filings containing normalized heading):\n\n'+table(['Heading','Filings'],[(h,n) for h,n in heading_top[form][:12]])+'\n\n' for form,desc in structure.items())
+
 report=f'''# TigerGraph GraphRAG Round 3 — Dataset Exploration
 
 Generated from the local corpus on {datetime.now().strftime('%Y-%m-%d %H:%M')}. This is an exploratory, read-only audit; it does not build a pipeline. Entity and relation totals are transparent rule-based **mention/evidence counts** over extracted text, not a claim of perfect named-entity resolution. Token counts use the stated approximation (English words × 1.33), not an actual GPT tokenizer.
@@ -162,7 +164,7 @@ Expected folder pattern is `TICKER/{{10-K, two 8-K, DEF14A}}_YYYY-MM-DD[optional
 
 ## 4. Document structure
 
-{''.join('### '+form+'\n\n'+desc+'\n\nCommon heading evidence (number of filings containing normalized heading):\n\n'+table(['Heading','Filings'],[(h,n) for h,n in heading_top[form][:12]])+'\n\n' for form,desc in structure.items())}
+{doc_structure_text}
 
 Generalized template: `SEC cover/registrant metadata → form-specific sections and tables → exhibit references → signature(s)`. Preserve cover metadata and section boundaries, but treat duplicated headers, exchange listings, checkbox language, exhibits indexes, and signatures as low-value retrieval context.
 

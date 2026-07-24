@@ -1,6 +1,6 @@
 # TigerGraph GraphRAG Round 3 — Dataset Exploration
 
-Generated from the local corpus on 2026-07-18 09:57. This is an exploratory, read-only audit; it does not build a pipeline. Entity and relation totals are transparent rule-based **mention/evidence counts** over extracted text, not a claim of perfect named-entity resolution. Token counts use the stated approximation (English words × 1.33), not an actual GPT tokenizer.
+Generated from the local corpus on 2026-07-24 22:50. This is an exploratory, read-only audit; it does not build a pipeline. Entity and relation totals are transparent rule-based **mention/evidence counts** over extracted text, not a claim of perfect named-entity resolution. Token counts use the stated approximation (English words × 1.33), not an actual GPT tokenizer.
 
 ## Executive summary
 
